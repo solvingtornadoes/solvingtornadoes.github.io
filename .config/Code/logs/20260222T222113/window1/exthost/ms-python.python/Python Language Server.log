@@ -1,0 +1,20 @@
+2026-02-22 22:21:23.379 [info] Client: Pylance client (2026.1.1) started with python extension (2026.2.0)
+2026-02-22 22:21:24.426 [info] (1588): Server root directory: file:///home/solvingtornadoes/.vscode/extensions/ms-python.vscode-pylance-2026.1.1/dist
+2026-02-22 22:21:24.429 [info] (1588): Pylance language server 2026.1.1 (pyright version 1.1.408, commit 138238b4) starting
+2026-02-22 22:21:24.541 [info] (1588): Starting service instance "<default>" for workspace ""
+2026-02-22 22:21:26.188 [info] (1588): Loading background bundle file:///home/solvingtornadoes/.vscode/extensions/ms-python.vscode-pylance-2026.1.1/dist/copilot-background.bundle.js into ...
+2026-02-22 22:21:26.505 [info] (1588): FG(<default>): Setting environmentName for service "<default>": "3.11.2 (global)"
+2026-02-22 22:21:26.506 [info] (1588): FG(<default>): Setting pythonPath for service "<default>": "/bin/python3"
+2026-02-22 22:21:26.507 [info] (1588): FG(<default>): No include entries specified; assuming /<default workspace root>
+2026-02-22 22:21:26.513 [info] (1588): FG(<default>): Auto-excluding **/node_modules
+2026-02-22 22:21:26.515 [info] (1588): FG(<default>): Auto-excluding **/__pycache__
+2026-02-22 22:21:26.515 [info] (1588): FG(<default>): Auto-excluding **/.*
+2026-02-22 22:21:26.572 [info] (1588): FG(<default>): Assuming Python version 3.11.2.final.0
+2026-02-22 22:21:26.867 [info] (1588): [Editable Installs] Starting dynamic pth file resolution for Python: /bin/python3
+2026-02-22 22:21:26.885 [info] (1588): [Editable Installs] No sandbox available for Python /bin/python3. Dynamic pth file resolution requires Python 3.13 or later.
+2026-02-22 22:21:26.963 [error] (1588): FG(<default>): File or directory "/<default workspace root>" does not exist.
+2026-02-22 22:21:26.963 [info] (1588): FG(<default>): No source files found.
+2026-02-22 22:21:26.971 [info] (1588): Settings have not changed. Skipping update.
+2026-02-22 22:21:27.342 [info] (1588): Starting Mcp server id:3008 ...
+2026-02-22 22:21:27.405 [info] (1588): PQ(<default>): Priority queue background worker(2) root directory: file:///home/solvingtornadoes/.vscode/extensions/ms-python.vscode-pylance-2026.1.1/dist
+2026-02-22 22:21:27.407 [info] (1588): PQ(<default>): Priority queue background worker(2) started

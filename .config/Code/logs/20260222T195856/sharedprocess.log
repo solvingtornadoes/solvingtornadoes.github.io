@@ -1,0 +1,3 @@
+2026-02-22 19:59:01.621 [info] Started initializing default profile extensions in extensions installation folder. file:///home/solvingtornadoes/.vscode/extensions
+2026-02-22 19:59:02.200 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/solvingtornadoes/.vscode/extensions Unable to create file 'vscode-userdata:/home/solvingtornadoes/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2026-02-22 19:59:02.207 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/solvingtornadoes/.vscode/extensions

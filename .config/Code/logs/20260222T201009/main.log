@@ -1,0 +1,7 @@
+2026-02-22 20:10:09.780 [info] update#setState idle
+2026-02-22 20:10:39.736 [info] update#setState checking for updates
+2026-02-22 20:10:39.797 [info] update#setState idle
+2026-02-22 21:10:39.744 [info] update#setState checking for updates
+2026-02-22 21:10:39.936 [info] update#setState idle
+2026-02-22 21:42:47.538 [warning] No ptyHost heartbeat after 6 seconds
+2026-02-22 22:03:32.243 [info] Extension host with pid 3119 exited with code: 0, signal: unknown.
