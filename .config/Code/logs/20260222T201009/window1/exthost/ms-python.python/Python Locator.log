@@ -1,0 +1,20 @@
+2026-02-22 20:12:35.622 [info] Starting Python Locator /home/solvingtornadoes/.vscode/extensions/ms-python.python-2026.2.0-linux-x64/python-env-tools/bin/pet server
+2026-02-22 20:12:35.686 [info] Discovered env: /usr/bin/python3
+2026-02-22 20:12:35.696 [info] Discovered env: /bin/python3
+2026-02-22 20:12:35.821 [info] Locator Conda took 43.895499ms
+2026-02-22 20:12:35.830 [info] Locator Homebrew took 384.356µs
+2026-02-22 20:12:35.831 [info] Locator LinuxGlobal took 128.222438ms
+2026-02-22 20:12:35.831 [info] Locator PipEnv took 42.029µs
+2026-02-22 20:12:35.831 [info] Locator Pixi took 37.112µs
+2026-02-22 20:12:35.832 [info] Locator Poetry took 297.104µs
+2026-02-22 20:12:35.832 [info] Locator PyEnv took 981.645µs
+2026-02-22 20:12:35.832 [info] Locator Uv took 213.01µs
+2026-02-22 20:12:35.832 [info] Locator Venv took 563.516µs
+2026-02-22 20:12:35.832 [info] Locator VirtualEnv took 43.841µs
+2026-02-22 20:12:35.832 [info] Locator VirtualEnvWrapper took 31.185µs
+2026-02-22 20:12:35.832 [info] Locator GlobalVirtualEnvs took 745.49µs
+2026-02-22 20:12:35.832 [info] Locator Locators took 138.009062ms
+2026-02-22 20:12:35.832 [info] Locator Path took 200.071488ms
+2026-02-22 20:12:35.833 [info] Locator Workspaces took 12.92µs
+2026-02-22 20:12:35.833 [info] Refresh completed in 200ms
+2026-02-22 20:12:36.049 [info] Resolved Python Environment /usr/bin/python3

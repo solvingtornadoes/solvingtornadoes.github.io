@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "solving-tornadoes-bot",
+  "private_key_id": "5756cf2ff57b21f7f9b10ea9f486eae4997d5716",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDLghlFNYNO4dpk\n+owCnaT/wQQUXoGW8dkl6fx7YkOKcEtz9BwMfJCLAIdbMNqjIAbxcRub0P/E5hN5\n3MaI5g35Up/tbSKZYJLftc2JT1KQPAS+zpR+h+vAIJZBKw91+8T1Cc4h3DKFOcWM\nzfg/4QUdj89XknL9C52qmSdBOE+shg/2/WO00c8iCXtWdmc42+jOm25agKNu1R51\nijzK4xeLceS1APEqTXZyVbC3NhYRBp5z5J17KTlAknNvJ2UAgbRJ+2VdWfYe2BEl\nxiqXW7ouGjVy8+OV9ZfEMTQ/ibsXw+/vuaRsNf9O07Lo3k+D/PP3++GC+kWpt6eh\n0dD/CjxDAgMBAAECggEAPSpdkQUb8a4FN3tscG7UREBNixe6iFUpSHFyvtzSYv4M\nV44Djic0RGsEw75DwGqkW5X8z9C5xwLF0Mcv7r6CbbDNO42lLAcwLcfVPlNWg95e\nKMErNXqBu22v62dXTsU8tc9cIqYtkwhBnWfcmMp3gKKUFYSBRhfjK/67IymbHMVm\nbW2/5mDO4geHOQeEMkYVi2tciNmjGb63y4pBpv0AADQEDQ54lZ2t29omLJw3gCuV\neaFV+wsOh9qmchGTXZ4/LJ+mZlFaJs5Y+MhLKCe8q216G+AVK2ITRr3nPCfDzUg2\nltePOibpX3XdL6mi1dB61HKwVA84hioxqYcWhcPmgQKBgQD+VrAxz1aasVI2sqSp\nhvmVjYENSchtOgmLFhf2gFWvtUKdhP2kGZhe7uEfHs1hC1NnWWoB5ktl3A+dQDwO\nnKeP0A1D0DkM+rZutSPxmhuQSad/EFZlhNK3otEBj6J5Ogfk6nbqyrNCh9N/X0kl\nOvVYZESxM2I6Lb0Q/r5BNVq3gQKBgQDM1mkUzvSb431idbX6Napqk5zuKpZHQLV8\ny2Axn5zqy0LGsIJ9e50gYhzPHHtKcFejtof/0AoXU62caSFzFX6LmxSKyPLRmi+O\nhwygWF1PjD0K6Qyc0TjvZAa/15agigEBKXREZH8ZGaSWKV1nRbfOkEIcq3xNdn97\nCtt3wlL1wwKBgGQtFsb3qF/TmdMrd8nB/QoXqw3l0siaxGmA8T1I/PbxCOTsHc8F\nucsigY71XeVsRZR+Vk+bOnVLQOcqBr2mnCT7yE2+dMoU8cgXFqoxjcu+Bvf4Il9n\n+msT+QiJX3AqGDPk2aPO5N4+i2Iu0KuWVk5TZ+73kyfhHgfUnnEmp62BAoGAFiAm\n05eTNm95MLR0RqWbVc3CCrvQ5btonyU8q7+I7JeuC9YvEizTCRdv8zMpYh4GaWmj\nAQ/QtzpTq2xzr4Gn3J6QtnkEOX3FG0kdJQjGc3w7b71CnoG++6S7UeeQnqCpgR2g\nMG8Gh4iMjafELg6KzyYn7f7b+2YMWRcQI7x6x48CgYAaAozytDk+V73YvyF9o4de\nloJWjVEaydYu+r7gvdqka2m22rt0ydkcRyGSKuEN+Tz+1dJVV7ETxKWVPd173A2n\n37vm+Wvt7QRb0MHkBlnWkbCFDuaW28Agi3aYnctzLhP9hnThkF8cJfJc5kPuDG2+\nMAMGmeHkMQX+h/YQW+5rXA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tornado-bot@solving-tornadoes-bot.iam.gserviceaccount.com",
+  "client_id": "105452820787930516999",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tornado-bot%40solving-tornadoes-bot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

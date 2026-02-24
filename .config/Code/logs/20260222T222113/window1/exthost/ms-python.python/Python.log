@@ -1,0 +1,8 @@
+2026-02-22 22:21:21.689 [info] Native locator: Refresh started
+2026-02-22 22:21:22.044 [info] Native locator: Refresh finished in 885 ms
+2026-02-22 22:21:22.357 [info] Native locator: Refresh started
+2026-02-22 22:21:22.374 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-02-22 22:21:22.374 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-02-22 22:21:22.645 [info] Native locator: Refresh finished in 278 ms
+2026-02-22 22:21:22.687 [info] Python interpreter path: /bin/python3
+2026-02-22 22:21:26.211 [info] Starting Pylance language server.
