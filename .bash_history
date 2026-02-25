@@ -803,3 +803,66 @@ python3 librarian_bot.py
 git add index.md librarian_bot.py
 git commit -m "Update Librarian script and regenerate index"
 git push
+pwd
+ls
+python3 tornado_agent.py
+solvingtornadoes@penguin:~$ python3 tornado_agent.py
+Traceback (most recent call last):
+ModuleNotFoundError: No module named 'google'
+solvingtornadoes@penguin:~$ source bot_env/bin/activate
+source bot_env/bin/activate
+python3 tornado_agent.py
+solvingtornadoes@penguin:~$ source bot_env/bin/activate
+(bot_env) solvingtornadoes@penguin:~$ python3 tornado_agent.py
+=== BOT A: THE CHUNKER (Tornado Project) ===
+Collaborative Check: What is our daily topic? The Failure of Buoyancy and the Reality of Scale
+No chunks found for 'The Failure of Buoyancy and the Reality of Scale'.
+(bot_env) solvingtornadoes@penguin:~$ python3 librarian_bot.py
+python3 librarian_bot.py
+git add .
+git commit -m "Add Buoyancy and Scale concept"
+git push
+git filter-branch --force --index-filter "git rm --cached --ignore-unmatch drive-key.json" --prune-empty --tag-name-filter cat -- --all
+git push origin --force --all
+[200~Dear Developer,
+We detected and will disable a publicly exposed service account authentication credential associated with the following Google Cloud Platform account:
+tornado-bot@solving-tornadoes-bot.iam.gserviceaccount.com with key ID 5756cf2ff57b21f7f9b10ea9f486eae4997d5716
+This key was found at the following URL: https://github.com/solvingtornadoes/solvingtornadoes.github.io/blob/a2f0d526db853e8df971dc97e101c5b5a72b589d/drive-key.json
+For a subset of abuse issues, we send abuse notifications in log format. Please log in to your console and review this abuse notification in Cloud Logging.
+To prevent potential security and abuse risks, this service account authentication credential will be disabled in accordance with your organisational policy for 'Service account key exposure response'. Your service account credential may have been inadvertently published in public sources or websites (for instance, the credentials were mistakenly uploaded to a service like GitHub). Please note that as the project/account owner, you are responsible for securing your resources.  
+Immediate action is required to secure your account(s). We strongly recommend that you take the following steps:
+Log in to the Google Cloud Console and review the activity on your account. 
+Rotate the credential for the disabled service account. 
+Take immediate steps to ensure that your service account credentials are not embedded in public source code systems, stored in download directories or unintentionally shared in other ways.
+Learn more about responding to abuse notifications and warnings
+The security of your Google Cloud Platform account(s) is important to us. You can find more information on securely using IAM here, and also recommend best practices for keeping service account keys safe. Please let us know if you have additional questions by contacting Google Cloud Support.
+Request an appeal
+Yours sincerely,
+Your Google Cloud Platform/API Trust & Safety team
+Dear Developer,
+We detected and will disable a publicly exposed service account authentication credential associated with the following Google Cloud Platform account:
+tornado-bot@solving-tornadoes-bot.iam.gserviceaccount.com with key ID 5756cf2ff57b21f7f9b10ea9f486eae4997d5716
+This key was found at the following URL: https://github.com/solvingtornadoes/solvingtornadoes.github.io/blob/a2f0d526db853e8df971dc97e101c5b5a72b589d/drive-key.json
+For a subset of abuse issues, we send abuse notifications in log format. Please log in to your console and review this abuse notification in Cloud Logging.
+To prevent potential security and abuse risks, this service account authentication credential will be disabled in accordance with your organisational policy for 'Service account key exposure response'. Your service account credential may have been inadvertently published in public sources or websites (for instance, the credentials were mistakenly uploaded to a service like GitHub). Please note that as the project/account owner, you are responsible for securing your resources.  
+Immediate action is required to secure your account(s). We strongly recommend that you take the following steps:
+Log in to the Google Cloud Console and review the activity on your account. 
+Rotate the credential for the disabled service account. 
+Take immediate steps to ensure that your service account credentials are not embedded in public source code systems, stored in download directories or unintentionally shared in other ways.
+Learn more about responding to abuse notifications and warnings
+The security of your Google Cloud Platform account(s) is important to us. You can find more information on securely using IAM here, and also recommend best practices for keeping service account keys safe. Please let us know if you have additional questi
+rm drive-key.json
+nano .gitignore
+git status
+git add .gitignore
+git commit -m "Add gitignore to protect sensitive files"
+git push
+git pull
+git config pull.rebase false
+git pull
+git pull origin main --allow-unrelated-histories
+git rm -f drive-key.json
+git commit -m "Permanently remove key from tracking"
+git push
+tropopause_anomaly.txt
+nano tropopause_anomaly.txt
