@@ -907,3 +907,115 @@ solvingtornadoes@penguin:~$ gedit tornado_agent.py &
 solvingtornadoes@penguin:~$ (bot_env) solvingtornadoes@penguin:~$ python3 tornado_agent.py
 python3 tornado_agent.py
 gedit tornado_agent.py &
+python3 tornado_agent.py
+pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
+source bot_env/bin/activate
+pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
+(bot_env) solvingtornadoes@penguin:~$ python3 tornado_agen
+python3 tornado_agent.py
+gedit tornado_agent.py &
+python3 tornado_agent.py
+gedit tornado_agent.py &
+python3 tornado_agent.py
+gedit tornado_agent.py &
+python3 tornado_agent.py
+python3 librarian_bot.py
+bot_env) solvingtornadoes@penguin:~$ python3 librarian_bot.py
+=== BOT B: THE LIBRARIAN (Organizing Knowledge Base) ===
+Success: index.md updated.
+(bot_env) solvingtornadoes@penguin:~$ python3 librarian_bot.py
+python3 librarian_bot.py
+git add .
+git commit -m "Integrated Kinetic Conduit and Kinetic Polarity physics"
+git push
+gedit "website_drafts/Tornado Mission Statement.md" &
+git push
+solvingtornadoes@penguin:~$ git push
+Username for 'https://github.com': solvingtornadoes
+Password for 'https://solvingtornadoes@github.com': 
+Enumerating objects: 30, done.
+Counting objects: 100% (30/30), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (14/14), done.
+Writing objects: 100% (16/16), 5.92 KiB | 1.18 MiB/s, done.
+Total 16 (delta 7), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (7/7), completed with 7 local objects.
+remote: error: GH013: Repository rule violations found for refs/heads/main.
+remote: 
+remote: - GITHUB PUSH PROTECTION
+remote:   —————————————————————————————————————————
+remote:     Resolve the following violations before pushing again
+remote: 
+remote:     - Push cannot contain secrets
+remote: 
+remote:     
+remote:      (?) Learn how to resolve a blocked push
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push
+remote:     
+remote:       —— GitHub Personal Access Token ——————————————————————
+remote:        locations:
+remote:          - commit: 6911d19007e6253de9bb55a9ce5f9d01711d7f40
+remote:            path: website_drafts/Tornado Mission Statement.md:108
+remote:     
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.
+remote:        https://github.com/solvingtornadoes/solvingtornadoes.github.io/security/secret-scanning/unblock-secret/3AEI5HIaact30CDfaZrSlnROVi6
+remote:     
+remote: 
+To https://github.com/solvingtornadoes/solvingtornadoes.github.io.git
+error: failed to push some refs to 'https://github.com/solvingtornadoes/solvingtornadoes.github.io.git'
+[1]+  Done                    gedit "website_drafts/Tornado Mission Statement.md"
+solvingtornadoes@penguin:~$ 
+gedit "website_drafts/Tornado Mission Statement.md"
+git add "website_drafts/Tornado Mission Statement.md"
+git commit --amend --no-edit
+git add "website_drafts/Tornado Mission Statement.md"
+git commit --amend --no-edit
+git push
+gedit tornado_agent.py &
+gedit create_dropzone.py &
+python3 create_dropzone.py
+solvingtornadoes@penguin:~$ python3 create_dropzone.py
+Traceback (most recent call last):
+ModuleNotFoundError: No module named 'googleapiclient'
+[1]+  Done                    gedit create_dropzone.py
+solvingtornadoes@penguin:~$ 
+python3 create_dropzone.py
+source bot_env/bin/activate
+python3 create_dropzone.py
+(bot_env) solvingtornadoes@penguin:~$ python3 create_dropzone.py
+Folder not found. Creating a new one...
+Traceback (most recent call last):
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/drive/v3/files/1n86T4Hrs3W0iDTQvOE8luJdzdJX2BkH3/permissions?alt=json returned "The specified permission role is invalid. Valid values are 'reader', 'commenter', 'writer', 'fileOrganizer', 'organizer', and 'owner'.". Details: "[{'message': "The specified permission role is invalid. Valid values are 'reader', 'commenter', 'writer', 'fileOrganizer', 'organizer', and 'owner'.", 'domain': 'global', 'reason': 'invalid', 'location': 'permission.role', 'locationType': 'other'}]">
+(bot_env) solvingtornadoes@penguin:~$ 
+gedit create_dropzone.py &
+python3 create_dropzone.py
+gedit tornado_agent.py &
+solvingtornadoes@penguin:~$ gedit tornado_agent.py &
+[1] 1304
+solvingtornadoes@penguin:~$ gedit tornado_agent.py &
+[2] 1338
+solvingtornadoes@penguin:~$ gedit tornado_agent.py &
+[3] 1348
+[2]   Done                    gedit tornado_agent.py
+solvingtornadoes@penguin:~$ 
+gedit tornado_agent.py
+gedit tornado_agent.py &
+python3 tornado_agent.py
+source bot_env/bin/activate
+python3 tornado_agent.py
+git add website_drafts/
+git commit -m "Bulk sync of storm physics research via Kinetic Conduit"
+git push
+ls -R website_drafts/
+gedit RESEARCH_INDEX.md &
+# Solving Tornadoes: The Kinetic Conduit Research Hub
+This is the central staging area for the alternative physics of storm flow and tornadogenesis.
+## Core Documents
+* [Mission Statement](website_drafts/Mission_Statement.md)
+* [The Kinetic Conduit Theory](website_drafts/Kinetic_Conduit.md)
+## Staged Research
+> *Note: These files were automatically synced from the Google Drive Dropzone.*
+### Atmospheric Physics
+* (Insert filenames here)
+### Flow Mechanics & Polymers
+* (Insert filenames here)x

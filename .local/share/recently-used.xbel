@@ -13,7 +13,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/solvingtornadoes/tornado_agent.py" added="2026-02-23T07:23:47.703734Z" modified="2026-02-26T22:52:31.189547Z" visited="2026-02-23T07:23:47.703736Z">
+  <bookmark href="file:///home/solvingtornadoes/tornado_agent.py" added="2026-02-23T07:23:47.703734Z" modified="2026-02-27T05:22:13.700566Z" visited="2026-02-23T07:23:47.703736Z">
     <desc>Language: ; Encoding: UTF-8; Cursor: 52:9;</desc>
     <info>
       <metadata owner="http://freedesktop.org">
@@ -23,7 +23,7 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2026-02-23T21:03:57.952452Z" count="16"/>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-02-26T22:52:31.189543Z" count="17"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-02-27T05:22:13.700563Z" count="29"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -63,6 +63,36 @@
         <mime:mime-type type="text/plain"/>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-02-25T20:03:32.637040Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/solvingtornadoes/website_drafts/Tornado%20Mission%20Statement.md" added="2026-02-27T00:22:02.044210Z" modified="2026-02-27T00:28:15.339261Z" visited="2026-02-27T00:22:02.044211Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-02-27T00:28:15.339257Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/solvingtornadoes/create_dropzone.py" added="2026-02-27T03:43:56.709030Z" modified="2026-02-27T03:58:35.486516Z" visited="2026-02-27T03:43:56.709032Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-02-27T03:58:35.486512Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/solvingtornadoes/RESEARCH_INDEX.md" added="2026-02-27T05:08:04.104215Z" modified="2026-02-27T05:08:04.104224Z" visited="2026-02-27T05:08:04.104217Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-02-27T05:08:04.104220Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
