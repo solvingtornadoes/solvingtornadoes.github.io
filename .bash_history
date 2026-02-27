@@ -1019,3 +1019,15 @@ This is the central staging area for the alternative physics of storm flow and t
 * (Insert filenames here)
 ### Flow Mechanics & Polymers
 * (Insert filenames here)x
+git add RESEARCH_INDEX.md
+git commit -m "Created central research hub index"
+git push
+gedit tornado_agent.py &
+source bot_env/bin/activate
+python3 tornado_agent.py
+gedit tornado_agent.py &
+python3 tornado_agent.py
+git add .
+git commit -m "Integrated Pauling polarity insight and updated index"
+git push
+cat RESEARCH_INDEX.md

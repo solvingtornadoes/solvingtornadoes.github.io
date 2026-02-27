@@ -111,3 +111,4 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+alias sync_tornado='python3 ~/tornado_agent.py && git add . && git commit -m "Auto-sync research" && git push'
