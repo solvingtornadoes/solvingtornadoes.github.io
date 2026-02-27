@@ -66,7 +66,7 @@ def rebuild_index():
 
     files = sorted([f for f in os.listdir(drafts_dir) if f.endswith('.md')])
     
-    with open("RESEARCH_INDEX.md", "w") as index_file:
+    with open("index.md", "w") as index_file:
         index_file.write("# Solving Tornadoes: Research Hub\n\n")
         index_file.write("## Current Staged Research\n")
         index_file.write(f"*Last updated: automatically by Tornado Agent*\n\n")
