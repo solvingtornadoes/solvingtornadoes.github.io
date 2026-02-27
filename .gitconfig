@@ -1,3 +1,5 @@
 [user]
 	email = solvingtornadoes@gmail.com
 	name = James McGinn
+[credential]
+	helper = store
