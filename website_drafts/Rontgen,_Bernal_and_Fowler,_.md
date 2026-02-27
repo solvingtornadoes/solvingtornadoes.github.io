@@ -1,0 +1,5 @@
+﻿Starting from a state of vague and confusing evidence, researchers (going as far back as Rontgen, Bernal and Fowler, and Pauling) started making some rather absurd assumptions. And since everybody was confused and otherwise ambivalent–after all it’s just water–nobody challenged these assumptions, allowing the assumptions to become codified in the literature, taking on the appearance of well-considered science when actually it is convoluted, contrived, and just plain wrong.  
+The paradigm got off on the wrong foot and now Chaplin, Pollack, and PMR are, it seems, doing everything they can to add to the confusion. Everybody needs to slow down.  Everybody needs to take a step back and take the utmost care about initial assumptions.
+I would like to be interviewed on your podcast.  It won’t take more than 15 minutes to completely clear up all the confusion about water. It is so simple!
+After that it won’t  take more than 45 minutes to describe the correct model of the physics of storms-–this being another part of science that has been completely confounded by poorly considered initial assumptions.
+James McGinn / Solving Tornadoes

@@ -1,0 +1,3 @@
+﻿I don't think needle in the haystack is the right analogy.  The problem isn't that people don't want to do the work to find the needle.  The problem is that even if they know there is a needle in the haystack they refuse to look.  
+I’ve had hundreds of conversations with people and it never fails.  The closer one get to discovery of the needle the more deliberately evasive they become.  This is especially true for academics.
+James McGinn / Genius / World’s Number One Expert in Hydrogen Bonding in Water

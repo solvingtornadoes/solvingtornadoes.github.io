@@ -1,0 +1,2 @@
+﻿Vortices, that also cause storms, are the mechanism of Hadley cell movement.  Vortices originate from (are an offshoot of) jet streams.  They then have the ability to grow along the tropopause which have the wind-shear conditions that vortices need to grow.  This includes growing all the way (hundreds of miles) to the the equator to cause rainstorms at the equator.  Over their lifespan vortices exhaust into jet streams and are the reason jet streams maintain their momentum. (Michael Connolly has no idea about any of this.)
+James McGinn / Genius / Solving Tornadoes
