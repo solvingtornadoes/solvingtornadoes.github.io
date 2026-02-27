@@ -866,3 +866,44 @@ git commit -m "Permanently remove key from tracking"
 git push
 tropopause_anomaly.txt
 nano tropopause_anomaly.txt
+sudo apt install gedit -y
+gedit tropopause_anomaly.txt &
+ls
+source bot_env/bin/activate
+python3 tornado_agent.py
+gedit drive-key.json &
+python3 tornado_agent.py
+python3 librarian_bot.py
+git add .
+git commit -m "Add entry on Tropopause Anomaly and Electrostatic Gradient"
+git push
+gedit tornado_agent.py &
+(bot_env) solvingtornadoes@penguin:~$ python3 tornado_agent.py
+1]   Done                    gedit tornado_agent.py
+solvingtornadoes@penguin:~$ (bot_env) solvingtornadoes@penguin:~$ python3 tornado_agent.py
+-bash: syntax error near unexpected token `solvingtornadoes@penguin:~$'
+[2]+  Done                    gedit tornado_agent.pysolvingtornadoes@penguin:~$ gedit tornado_agent.py &
+[1] 1185
+solvingtornadoes@penguin:~$ gedit tornado_agent.py &
+[2] 1296
+[1]   Done                    gedit tornado_agent.py
+solvingtornadoes@penguin:~$ (bot_env) solvingtornadoes@penguin:~$ python3 tornado_agent.py
+-bash: syntax error near unexpected token `solvingtornadoes@penguin:~$'
+[2]+  Done                    gedit tornado_agent.py
+solvingtornadoes@penguin:~$ 1]   Done                    gedit tornado_agent.py
+solvingtornadoes@penguin:~$ (bot_env) solvingtornadoes@penguin:~$ python3 tornado_agent.py
+-bash: syntax error near unexpected token `solvingtornadoes@penguin:~$'
+[2]+  Done                    gedit tornado_agent.pysolvingtornadoes@penguin:~$ (bot_env) solvingtornadoes@penguin:~$ python3 tornado_agent.py
+-bash: syntax error near unexpected token `solvingtornadoes@penguin:~$'
+[2]+  Done                    gedit tornado_agent.py
+solvingtornadoes@penguin:~$ 1]   Done                    gedit tornado_agent.py
+solvingtornadoes@penguin:~$ (bot_env) solvingtornadoes@penguin:~$ python3 tornado_agent.py
+-bash: syntax error near unexpected token `solvingtornadoes@penguin:~$'
+[2]+  Done                    gedit tornado_agent.pysolvingtornadoes@penguin:~$ gedit tornado_agent.py &
+[1] 1185
+solvingtornadoes@penguin:~$ gedit tornado_agent.py &
+[2] 1296
+[1]   Done                    gedit tornado_agent.py
+solvingtornadoes@penguin:~$ (bot_env) solvingtornadoes@penguin:~$ python3 tornado_agent.py
+python3 tornado_agent.py
+gedit tornado_agent.py &

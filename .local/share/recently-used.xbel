@@ -13,21 +13,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/solvingtornadoes/tornado_agent.py" added="2026-02-23T07:23:47.703734Z" modified="2026-02-23T21:03:57.952459Z" visited="2026-02-23T07:23:47.703736Z">
+  <bookmark href="file:///home/solvingtornadoes/tornado_agent.py" added="2026-02-23T07:23:47.703734Z" modified="2026-02-26T22:52:31.189547Z" visited="2026-02-23T07:23:47.703736Z">
     <desc>Language: ; Encoding: UTF-8; Cursor: 52:9;</desc>
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
+        <mime:mime-type type="text/x-python"/>
         <bookmark:groups>
           <bookmark:group>Mousepad</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2026-02-23T21:03:57.952452Z" count="16"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-02-26T22:52:31.189543Z" count="17"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/solvingtornadoes/drive-key.json" added="2026-02-23T19:10:25.361632Z" modified="2026-02-25T20:27:07.505315Z" visited="2026-02-23T19:10:25.361634Z">
+  <bookmark href="file:///home/solvingtornadoes/drive-key.json" added="2026-02-23T19:10:25.361632Z" modified="2026-02-26T20:24:14.927478Z" visited="2026-02-23T19:10:25.361634Z">
     <desc>Language: ; Encoding: UTF-8; Cursor: 5:76;</desc>
     <info>
       <metadata owner="http://freedesktop.org">
@@ -37,7 +38,7 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2026-02-23T19:40:46.672806Z" count="3"/>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-02-25T20:27:07.505313Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-02-26T20:24:14.927476Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
