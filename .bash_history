@@ -1031,3 +1031,72 @@ git add .
 git commit -m "Integrated Pauling polarity insight and updated index"
 git push
 cat RESEARCH_INDEX.md
+gedit ~/.bashrc &
+source ~/.bashrc
+source bot_env/bin/activate
+pwd
+python3 tornado_agent.py
+(bot_env) solvingtornadoes@penguin:~$ pwd
+/home/solvingtornadoes
+(bot_env) solvingtornadoes@penguin:~$ python3 tornado_agent.py
+=== THE DOCUMENT WATCHER: Scanning Dropzone ===
+Reading Insight: Dan Robinson comment response
+[SUCCESS]: Dan Robinson comment response moved to local staging.
+=== REBUILDING RESEARCH INDEX ===
+[SUCCESS]: RESEARCH_INDEX.md updated.
+(bot_env) solvingtornadoes@penguin:~$ ^C
+(bot_env) solvingtornadoes@penguin:~$ solvingtornadoes@penguin
+sync_tornado
+git config --global credential.helper store
+sync_tornado
+(bot_env) solvingtornadoes@penguin:~$ sync_tornado
+=== THE DOCUMENT WATCHER: Scanning Dropzone ===
+No new documents found. All research is processed.
+=== REBUILDING RESEARCH INDEX ===
+[SUCCESS]: RESEARCH_INDEX.md updated.
+[main b4a1d55] Auto-sync research
+Username for 'https://github.com': solvingtornadoes
+Password for 'https://solvingtornadoes@github.com': 
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 362 bytes | 362.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/solvingtornadoes/solvingtornadoes.github.io.git
+(bot_env) solvingtornadoes@penguin:~$ 
+mv RESEARCH_INDEX.md index.md
+gedit tornado_agent.py &
+sync_tornado
+[200~gedit .gitignore &~
+gedit.gitignore
+gedit .gitignore &
+git pull origin main --rebase
+ls
+gedit .gitignore &
+git add .
+git commit -m "Staging local research before rebase"
+git pull origin main --rebase
+sync_tornado
+git push
+git ls-files --stage
+mv "website_drafts/plasma_defined_correctly,__the_plasma_that_comprises_the_sheath_of_tornadic_vortices_there_are_no_ions.md" website_drafts/plasma_vortex_sheath.md
+git add .
+git commit -m "Shortened filename to bypass GitHub path limits"
+git push
+git rm --cached .git-credentials
+gedit .gitignore &
+git add .
+git commit --amend --no-edit
+git push
+git reset --soft HEAD~1
+git rm --cached .git-credentials
+git reset HEAD~1
+ls -a
+rm .git-credentials
+gedit .gitignore &
+git reset --soft HEAD~1
+git add .
+git commit -m "Clean research sync without secrets"
+git push
