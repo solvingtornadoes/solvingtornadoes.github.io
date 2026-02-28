@@ -1,3 +1,7 @@
+---
+layout: default
+title: Hydrogen Bonding Dynamic Switch
+---
 ﻿Correcting Pauling’s Blunder: Hydrogen Bonding as a Dynamic Switch Governing Water’s Anomalies
 James McGinn / Solving Tornadoes
 Contact: solvingtornadoes@gmail.com
