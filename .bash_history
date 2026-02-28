@@ -1100,3 +1100,27 @@ git reset --soft HEAD~1
 git add .
 git commit -m "Clean research sync without secrets"
 git push
+mkdir ~/research_vault
+mv ~/website_drafts/* ~/research_vault/
+ls website_drafts
+ls research_vault
+sync_tornado
+source bot_env/bin/activate
+sync_tornado
+mv ~/research_vault/Hydrogen_Bonding_as_a_Dynamic_Switch_Governing_Water’s_Anomalies.md ~/website_drafts/hydrogen_bonding_dynamic_switch.md
+(bot_env) solvingtornadoes@penguin:~$ mv ~/research_vault/Hydrogen_Bonding_as_a_Dynamic_Switch_Governing_Water’s_Anomalies.md ~/website_drafts/hydrogen_bonding_dynamic_switch.md
+mv: cannot stat '/home/solvingtornadoes/research_vault/Hydrogen_Bonding_as_a_Dynamic_Switch_Governing_Water’s_Anomalies.md': No such file or directory
+(bot_env) solvingtornadoes@penguin:~$ls ~/research_vault/Hyd*
+mv ~/research_vault/Hydrogen*Anomalies.md ~/website_drafts/hydrogen_bonding_dynamic_switch.md
+ls ~/website_drafts
+ls ~/research_vault/H*
+mv ~/research_vault/Hydrogen_Bonding_as_a_Dynamic_Switch_Governing_Water’s_Anomalies_For_Thunderbolts_Copy_of__.md ~/website_drafts/hydrogen_bonding_dynamic_switch.md
+ls ~/website_drafts
+gedit ~/website_drafts/hydrogen_bonding_dynamic_switch.md &
+sync_tornado
+head -n 10 ~/website_drafts/hydrogen_bonding_dynamic_switch.md
+sed -i '1i ---\nlayout: default\ntitle: Hydrogen Bonding Dynamic Switch\n---' ~/website_drafts/hydrogen_bonding_dynamic_switch.md
+head -n 5 ~/website_drafts/hydrogen_bonding_dynamic_switch.md
+sync_tornado
+cat index.md
+https://github.com/solvingtornadoes/solvingtornadoes.github.io/actions
