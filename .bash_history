@@ -1124,3 +1124,46 @@ head -n 5 ~/website_drafts/hydrogen_bonding_dynamic_switch.md
 sync_tornado
 cat index.md
 https://github.com/solvingtornadoes/solvingtornadoes.github.io/actions
+source bot_env/bin/activate
+head -n 12 ~/website_drafts/hydrogen_bonding_dynamic_switch.md
+touch .nojekyll
+git add .nojekyll
+git commit -m "Deploying the silver bullet to bypass Jekyll"
+git push
+solvingtornadoes
+git rm .nojekyll
+echo "theme: jekyll-theme-minimal" > _config.yml
+sync_tornado
+echo "bot_env/" >> .gitignore
+git rm -r --cached bot_env
+sync_tornado
+echo 'exclude: ["research_vault"]' >> _config.yml
+sync_tornado
+echo "solvingtornadoes.com" > CNAME
+sync_tornado
+grep -il "funnel" ~/research_vault/*.md
+cat ~/research_vault/Vortices_Are_The_Pressure_Relief_Valves_of_The_Atmosphere.md
+cp ~/research_vault/Vortices_Are_The_Pressure_Relief_Valves_of_The_Atmosphere.md ~/website_drafts/vortices_pressure_relief_valves.md
+sed -i '1i ---\nlayout: default\ntitle: "Vortices: Pressure Relief Valves"\n---' ~/website_drafts/vortices_pressure_relief_valves.md
+sync_tornado
+gedit ~/website_drafts/vortices_pressure_relief_valves.md &
+sync_tornado
+gedit ~/website_drafts/vortices_pressure_relief_valves.md &
+sync_tornado
+cat << 'EOF' > ~/website_drafts/the_funnel_effect.md
+---
+layout: default
+title: "The Funnel Effect"
+---
+
+# The Funnel Effect: Cohesiveness and Static Electricity
+
+The funnel effect is just a natural implication of having different levels of cohesiveness between bodies of air and plasma.
+
+Because of the presence of static electricity in the atmosphere, all bodies of air—and/or air mixed with water—exhibit varying degrees of this cohesiveness. This static interaction at the boundary layers is what physically manifests as the funnel.
+EOF
+
+sync_tornado
+source bot_env/bin/activate
+Show me the terminal command to bring up the list of rough drafts
+ls -1 ~/research_vault

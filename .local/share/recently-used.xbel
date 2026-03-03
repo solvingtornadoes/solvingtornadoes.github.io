@@ -137,4 +137,33 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/solvingtornadoes/testing%20for%20ST" added="2026-03-01T22:27:12.495965Z" modified="2026-03-01T22:27:18.243976Z" visited="2026-03-01T22:27:12.495967Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:7;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2026-03-01T22:27:18.243969Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/solvingtornadoes/Tornado%20bot%20Morning%20Routine.txt" added="2026-03-02T00:40:10.508761Z" modified="2026-03-03T19:46:49.918898Z" visited="2026-03-02T00:40:10.508762Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-02T21:48:32.490412Z" count="3"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2026-03-03T19:46:49.918896Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
