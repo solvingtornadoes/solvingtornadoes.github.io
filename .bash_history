@@ -1167,3 +1167,7 @@ sync_tornado
 source bot_env/bin/activate
 Show me the terminal command to bring up the list of rough drafts
 ls -1 ~/research_vault
+source bot_env/bin/activate
+sync_tornado
+sync tornado
+sync_tornado
