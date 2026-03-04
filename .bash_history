@@ -1171,3 +1171,5 @@ source bot_env/bin/activate
 sync_tornado
 sync tornado
 sync_tornado
+source bot_env/bin/activate
+sync_tornado
