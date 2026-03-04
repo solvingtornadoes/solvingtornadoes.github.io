@@ -1173,3 +1173,81 @@ sync tornado
 sync_tornado
 source bot_env/bin/activate
 sync_tornado
+source bot_env/bin/activate
+git mv old-filename-with-error.md correcting-paulings-blunder.md
+git add .
+git commit -m "Fix invalid filename character"
+git push
+git mv 50-caliber-rifle-shot-analogy.md 50-caliber-rifle-shot-analogy.md
+git mv atmospheric-plumbing.md atmospheric-plumbing.md
+git mv cloud-suck.md cloud-suck.md
+git mv executive-summary.md executive-summary.md
+git mv high-quality-moist-air.md high-quality-moist-air.md
+git mv is-the-convection-model-tested.md is-the-convection-model-tested.md
+git mv mitigation-strategy.md mitigation-strategy.md
+ls website_drafts
+ls -R
+cd website_drafts
+git mv 50-caliber-rifle-shot-analogy.md 50-caliber-rifle-shot-analogy.md
+git mv atmospheric-plumbing.md atmospheric-plumbing.md
+git mv cloud-suck.md cloud-suck.md
+git mv executive-summary.md executive-summary.md
+git mv high-quality-moist-air.md high-quality-moist-air.md
+git mv is-the-convection-model-tested.md is-the-convection-model-tested.md
+git mv mitigation-strategy.md mitigation-strategy.md
+git mv "Pauling's_Blunder_Versus_Solving_Tornadoes.md" paulings-blunder-vs-solving-tornadoes.md
+git mv "Pauling's_Blunder_Versus_Solving_Tornadoes**.md" paulings-blunder-vs-solving-tornadoes-alt.md
+git mv public-relations-crisis-kit.md public-relations-crisis-kit.md
+git mv "Vortices:_The_Structural_Pressure_Relief_Valves_of.md" vortices-structural-pressure-relief-valves.md
+git mv "Vortices_Deliver_The_Energetic_Low_Pressure_of_Sto.md" vortices-energetic-low-pressure.md
+git mv Standard_View_of_Moist_Air_Density_is_Nonsense.md moist-air-density-standard-view.md
+git mv Strategic_Investment_Opportunity.md strategic-investment-opportunity.md
+git mv "Structural_Perspective_Dismantles_The_Standard_\"Co.md\"" structural-perspective-dismantles-convection.md
+git mv tactical-debate-map.md tactical-debate-map.md
+git mv The_Bedrock_of_Modern_Meteorology.md bedrock-of-modern-meteorology.md
+git mv The_Pressure_Differential_Engine.md pressure-differential-engine.md
+git mv square-peg-of-convection.md square-peg-of-convection.md
+git mv Thermal_Gradients_Geographic_Distribution.md thermal-gradients-geographic-distribution.md
+git mv Why_Meteorology_Shuns_Debate.md why-meteorology-shuns-debate.md
+git mv "glossary-of-terms" glossary-of-terms.md
+git mv hydrogen_bonding_dynamic_switch.md hydrogen-bonding-dynamic-switch.md
+git mv the_funnel_effect.md the-funnel-effect.md
+git mv vortices_pressure_relief_valves.md vortices-pressure-relief-valves.md
+git mv glossary-of-terms glossary-of-terms.md
+(bot_env) solvingtornadoes@penguin:~/website_drafts$ git mv glossary-of-terms glossary-of-terms.md
+fatal: bad source, source=website_drafts/glossary-of-terms, destination=website_drafts/glossary-of-terms.md
+git mv Structural_Perspective_Dismantles_The_Standard* structural-perspective-dismantles-convection.md
+# Force-rename the glossary file
+mv glossary-of-terms glossary-of-terms.md
+# Force-rename the structural perspective file
+mv Structural_Perspective_Dismantles_The_Standard* structural-perspective-dismantles-convection.md
+v Structural_Perspective_Dismantles_The_Standard* structural-perspective-dismantles-convection.md
+mv: cannot stat 'Structural_Perspective_Dismantles_The_Standard*': No such file or directory
+(bot_env) solvingtornadoes@penguin:~/website_drafts$ 
+ls -F
+git mv "correcting-paulings-blunder.md" correcting-paulings-blunder.md
+git mv "glossary-of-terms.md" glossary-of-terms.md
+git add -A
+git commit -m "Whittled the last of the colon-heavy filenames"
+git push
+cd ..
+git pull origin main
+git add website_drafts/glossary-of-terms.md
+git add website_drafts/paulings-blunder-vs-solving-tornadoes-alt.md
+git rm website_drafts/glossary-of-terms
+git rm website_drafts/paulings_blunder_versus_solving_tornadoes.md
+git commit -m "Resolved rename conflicts: Kept clean hyphenated filenames"
+U       website_drafts/glossary-of-terms.md
+U       website_drafts/Pauling's_Blunder_Versus_Solving_Tornadoes**.md
+error: Committing is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+(bot_env) solvingtornadoes@penguin:~$ 
+
+git add website_drafts/glossary-of-terms.md
+git add website_drafts/paulings-blunder-vs-solving-tornadoes-alt.md
+git rm "website_drafts/glossary-of-terms.md"
+git rm "website_drafts/Pauling's_Blunder_Versus_Solving_Tornadoes**.md"
+git commit -m "Resolved rename conflicts: purged colons and asterisks"
+git push
