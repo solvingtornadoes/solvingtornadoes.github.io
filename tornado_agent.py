@@ -1,6 +1,7 @@
 import os
 from googleapiclient.discovery import build
 from google.oauth2 import service_account
+from datetime import datetime
 
 # ================= SETTINGS =================
 # This is the secret ID for your SOLVING_TORNADOES_DROPZONE
@@ -40,43 +41,32 @@ def watch_docs():
             
             content = request.execute()
             
-            if not os.path.exists("website_drafts"):
-                os.makedirs("website_drafts")
+            # 1. Ensure the Jekyll publishing folder exists
+            if not os.path.exists("_posts"):
+                os.makedirs("_posts")
             
-            local_filename = f"website_drafts/{item['name'][:50].replace(' ', '_')}.md"
+            # 2. Get today's date
+            today = datetime.now().strftime("%Y-%m-%d")
+            
+            # 3. Sanitize the filename (forces lowercase, swaps spaces/underscores for hyphens)
+            raw_name = item['name'].replace('.md', '').lower().replace(' ', '-').replace('_', '-')
+            local_filename = f"_posts/{today}-{raw_name}.md"
+            
+            # 4. Save the file to the _posts folder
             with open(local_filename, 'wb') as f:
                 f.write(content)
                 
+            # 5. Mark as processed in Google Drive
             service.files().update(
                 fileId=item['id'], 
                 body={'name': f"[PROCESSED] - {item['name']}"}
             ).execute()
             
-            print(f"[SUCCESS]: {item['name']} moved to local staging.")
+            print(f"[SUCCESS]: Moved to {local_filename}")
 
         except Exception as e:
             print(f"[ERROR] on {item['name']}: {e}")
 
-def rebuild_index():
-    print("\n=== REBUILDING RESEARCH INDEX ===")
-    drafts_dir = "website_drafts"
-    if not os.path.exists(drafts_dir):
-        print("No drafts directory found to index.")
-        return
-
-    files = sorted([f for f in os.listdir(drafts_dir) if f.endswith('.md')])
-    
-    with open("index.md", "w") as index_file:
-        index_file.write("# Solving Tornadoes: Research Hub\n\n")
-        index_file.write("## Current Staged Research\n")
-        index_file.write(f"*Last updated: automatically by Tornado Agent*\n\n")
-        
-        for f in files:
-            display_name = f.replace('_', ' ').replace('.md', '')
-            index_file.write(f"* [{display_name}]({drafts_dir}/{f})\n")
-            
-    print("[SUCCESS]: RESEARCH_INDEX.md updated.")
-
 if __name__ == '__main__':
     watch_docs()
-    rebuild_index()
+    print("\n=== BOT FINISHED: Jekyll will now build the index automatically ===")
