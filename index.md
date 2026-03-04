@@ -3,29 +3,10 @@
 ## Current Staged Research
 *Last updated: automatically by Tornado Agent*
 
-* [50-Caliber Rifle Shot Analogy](website_drafts/50-caliber-rifle-shot-analogy.md)
-* [Atmospheric Plumbing](website_drafts/atmospheric-plumbing.md)
-* [Cloud Suck](website_drafts/cloud-suck.md)
-* [Correcting Pauling’s Blunder: Hydrogen Bonding as ](website_drafts/correcting-paulings-blunder.md)
-* [Executive Summary](website_drafts/executive-summary.md)
-* [Glossary of Terms: Structural Vortex vs. Standard ](website_drafts/glossary-of-terms.md)
-* [High Quality Moist Air](website_drafts/high-quality-moist-air.md)
-* [Is The Convection Model Tested](website_drafts/is-the-convection-model-tested.md)
-* [Mitigation Strategy](website_drafts/mitigation-strategy.md)
-* [Pauling's Blunder Versus Solving Tornadoes**](website_drafts/Pauling's_Blunder_Versus_Solving_Tornadoes**.md)
-* [Pauling's Blunder Versus Solving Tornadoes](website_drafts/Pauling's_Blunder_Versus_Solving_Tornadoes.md)
-* [Public Relations Crisis Kit](website_drafts/public-relations-crisis-kit.md)
-* [Standard View of Moist Air Density is Nonsense](website_drafts/Standard_View_of_Moist_Air_Density_is_Nonsense.md)
-* [Strategic Investment Opportunity](website_drafts/Strategic_Investment_Opportunity.md)
-* [Structural Perspective Dismantles The Standard "Co](website_drafts/Structural_Perspective_Dismantles_The_Standard_"Co.md)
-* [Tactical Debate Map](website_drafts/tactical-debate-map.md)
-* [The Bedrock of Modern Meteorology](website_drafts/The_Bedrock_of_Modern_Meteorology.md)
-* [The Pressure Differential Engine](website_drafts/The_Pressure_Differential_Engine.md)
-* [The Square Peg of Convection](website_drafts/square-peg-of-convection.md)
-* [Thermal Gradients Geographic Distribution](website_drafts/Thermal_Gradients_Geographic_Distribution.md)
-* [Vortices: The Structural Pressure Relief Valves of](website_drafts/Vortices:_The_Structural_Pressure_Relief_Valves_of.md)
-* [Vortices Deliver The Energetic Low Pressure of Sto](website_drafts/Vortices_Deliver_The_Energetic_Low_Pressure_of_Sto.md)
-* [Why Meteorology Shuns Debate](website_drafts/Why_Meteorology_Shuns_Debate.md)
-* [hydrogen bonding dynamic switch](website_drafts/hydrogen_bonding_dynamic_switch.md)
-* [the funnel effect](website_drafts/the_funnel_effect.md)
-* [vortices pressure relief valves](website_drafts/vortices_pressure_relief_valves.md)
+## Solving Tornadoes: The Structural Vortex Paradigm
+
+Explore the research:
+
+{% for post in site.posts %}
+* [{{ post.title }}]({{ post.url }})
+{% endfor %}
