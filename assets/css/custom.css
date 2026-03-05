@@ -1,0 +1,28 @@
+/* =========================================
+   SOLVING TORNADOES: GLOBAL STYLES
+   ========================================= */
+
+/* 1. Hide Jekyll's automated title and meta data to prevent double-titles */
+header.post-header, .post-title, .post-meta {
+    display: none !important;
+}
+
+/* 2. Academic styling for dismantled theories and quotes */
+blockquote {
+    border-left: 4px solid #555555;
+    padding: 10px 20px;
+    background-color: #f8f9fa;
+    font-style: italic;
+    color: #333333;
+    margin: 20px 0;
+}
+
+/* 3. High-visibility structural warnings */
+.warning {
+    background-color: #fff3cd;
+    border-left: 5px solid #cc0000;
+    padding: 15px;
+    font-weight: bold;
+    color: #856404;
+    margin: 20px 0;
+}

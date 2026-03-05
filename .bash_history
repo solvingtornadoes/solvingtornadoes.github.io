@@ -1251,3 +1251,47 @@ git rm "website_drafts/glossary-of-terms.md"
 git rm "website_drafts/Pauling's_Blunder_Versus_Solving_Tornadoes**.md"
 git commit -m "Resolved rename conflicts: purged colons and asterisks"
 git push
+source bot_env/bin/activate
+declare -A names
+names["50-Caliber_Rifle_Shot_Analogy"]="50-caliber-rifle-shot-analogy"
+names["Atmospheric_Plumbing"]="atmospheric-plumbing"
+names["Cloud_Suck"]="cloud-suck"
+names["Executive_Summary"]="executive-summary"
+names["High_Quality_Moist_Air"]="high-quality-moist-air"
+names["Is_The_Convection_Model_Tested"]="is-the-convection-model-tested"
+names["Mitigation_Strategy"]="mitigation-strategy"
+names["Public_Relations_Crisis_Kit"]="public-relations-crisis-kit"
+names["Tactical_Debate_Map"]="tactical-debate-map"
+names["The_Square_Peg_of_Convection"]="square-peg-of-convection"
+names["glossary-of-terms.md."]="glossary-of-terms"
+names["Glossary_of_Terms:_Structural_Vortex_vs._Standard_"]="glossary-of-terms"
+names["Correcting_Pauling’s_Blunder:_Hydrogen_Bonding_as_"]="correcting-paulings-blunder"
+for old in "${!names[@]}"; do     new=${names[$old]};     echo "Updating links: $old -> $new";     grep -rl "$old" . --exclude-dir=.git | xargs sed -i "s|$old|$new|g"; done
+sed -i 's/website_drafts\//website_drafts\//g' index.md
+git add .
+
+git commit -m "Updated internal links to match new hyphenated filenames"
+git push
+mkdir -p _posts
+for file in website_drafts/*.md; do mv "$file" "_posts/2026-03-04-$(basename "$file")"; done
+git add .
+
+git commit -m "Updated index.md with dynamic loop and moved drafts to _posts"
+git push
+sync_tornado
+git add _posts/2026-03-04-breaking-cycle.md
+git commit -m "Published: Breaking the Cycle of Complacency"
+git push
+nano ~/.bashrc
+source ~/.bashrc
+source bot_env/bin/activate
+publish "Name added below title experiment"
+ls
+cd solvingtornadoes.github.io
+dir
+ls
+mkdir -p assets/css
+nano assets/css/custom.css
+cat assets/css/custom.css
+mkdir -p _includes
+nano _includes/custom-head.html

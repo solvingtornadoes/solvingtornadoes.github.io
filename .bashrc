@@ -113,8 +113,4 @@ if ! shopt -oq posix; then
 fi
 alias sync_tornado='python3 ~/tornado_agent.py && git add . && git commit -m "Auto-sync research" && git push'
 # Custom command to instantly push website revisions
-publish() {
-    git add .
-    git commit -m "$1"
-    git push
-}
+
