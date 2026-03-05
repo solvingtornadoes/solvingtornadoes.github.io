@@ -13,6 +13,8 @@ Run your bot: Go to your terminal and run
 
 sync_tornado.
 
+
+
 ls -1 ~/research_vault
 
 grep -il "keyword" ~/research_vault/*.md
@@ -22,6 +24,26 @@ cp ~/research_vault/Your_Messy_Draft_Name.md ~/website_drafts/clean_draft_name.m
 gedit ~/website_drafts/clean_draft_name.md &
 
 sync_tornado
+
+Revisions:
+
+Open the Master Copy: Open your local text editor in your penguin terminal and load the specific file (e.g., _posts/2026-03-04-breaking-cycle.md).
+
+Make the Edit: Type your new insights or corrections directly into the Markdown.
+
+Save and Synchronize: Go to your terminal and run the standard publishing sequence:
+
+Bash
+git add .
+git commit -m "Revised breaking-cycle.md to expand on surface tension"
+git push
+
+
+
+
+
+
+
 
 
 ///////////////////////////////////////////////////

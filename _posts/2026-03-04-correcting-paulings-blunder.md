@@ -1,5 +1,6 @@
 ﻿# **Correcting Pauling’s Blunder: Hydrogen Bonding as a Dynamic Switch**
 
+James McGinn / Solving Tornadoes
 
 ## **I. The Failure of Classical Electronegativity**
 
