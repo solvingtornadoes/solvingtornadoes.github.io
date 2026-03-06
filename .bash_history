@@ -1295,3 +1295,13 @@ nano assets/css/custom.css
 cat assets/css/custom.css
 mkdir -p _includes
 nano _includes/custom-head.html
+cat _includes/custom-head.html
+solvingtornadoes@penguin:~$ cat _includes/custom-head.html
+cat: _includes/custom-head.html: No such file or directory
+solvingtornadoes@penguin:~$ 
+mkdir -p _includes
+nano _includes/custom-head.html
+cat _includes/custom-head.html
+git add .
+git commit -m "Added global CSS to fix titles and style citations"
+git push
