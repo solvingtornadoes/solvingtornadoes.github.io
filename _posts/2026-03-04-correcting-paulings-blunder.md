@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Correcting Pauling's Blunder"
 author: "James McGinn / Solving Tornadoes"
 tags: [hydrogen bond, electronegativity, water, physics]
 ---
