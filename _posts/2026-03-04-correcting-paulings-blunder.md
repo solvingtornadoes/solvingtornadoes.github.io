@@ -1,5 +1,6 @@
 ---
 layout: post
+author: "James McGinn / Solving Tornadoes"
 ---
 
 # Correcting Pauling's Blunder
