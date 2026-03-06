@@ -3,6 +3,15 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 
+{% if page.tags.size > 0 %}
+  <div style="margin-bottom: 20px;">
+    <strong>Tags: </strong>
+    {% for tag in page.tags %}
+      <span style="background-color: #e1e4e8; color: #24292e; padding: 4px 8px; border-radius: 4px; font-size: 0.85em; margin-right: 5px;">{{ tag }}</span>
+    {% endfor %}
+  </div>
+{% endif %}
+
 {{ content }}
 
 {% if page.jabrium_thread %}
