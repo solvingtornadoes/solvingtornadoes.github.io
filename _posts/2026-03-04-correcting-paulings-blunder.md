@@ -5,8 +5,6 @@ author: "James McGinn / Solving Tornadoes"
 tags: [hydrogen bond, electronegativity, water, physics]
 ---
 
-# Correcting Pauling's Blunder
-
 ## **I. The Failure of Classical Electronegativity**
 
 
