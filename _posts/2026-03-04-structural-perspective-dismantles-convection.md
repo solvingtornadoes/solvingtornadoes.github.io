@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Archived Post"
+author: "James McGinn / Solving Tornadoes"
+tags: [archived research]
+# jabrium_thread: "https://jabrium.com/your-thread-link-here"
+---
+
 ﻿# Structural Perspective Dismantles The Standard "Convection" Narrative
 The shift from a "bubble" to a **structural vortex** is the fundamental departure from 19th-century thermodynamics. If a vortex is not just a "swirl of air" but a physical structure with **tensile-like properties** and a low-pressure core, it acts as a mechanical conduit for energy.
 

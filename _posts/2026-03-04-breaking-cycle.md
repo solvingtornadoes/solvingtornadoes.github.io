@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Archived Post"
+author: "James McGinn / Solving Tornadoes"
+tags: [archived research]
+# jabrium_thread: "https://jabrium.com/your-thread-link-here"
+---
+
 ﻿# **Breaking the Cycle of Complacency: A Call to Action on Storm Physics**
 
 

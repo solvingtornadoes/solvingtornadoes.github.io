@@ -1,4 +1,12 @@
 ---
+layout: post
+title: "Archived Post"
+author: "James McGinn / Solving Tornadoes"
+tags: [archived research]
+# jabrium_thread: "https://jabrium.com/your-thread-link-here"
+---
+
+---
 layout: default
 title: "Vortices: Pressure Relief Valves"
 ---

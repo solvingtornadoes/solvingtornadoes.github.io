@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Archived Post"
+author: "James McGinn / Solving Tornadoes"
+tags: [archived research]
+# jabrium_thread: "https://jabrium.com/your-thread-link-here"
+---
+
 ﻿# 50-Caliber Rifle Shot Analogy
 
 
@@ -61,7 +69,7 @@ If surface tension can destroy a 50-caliber bullet, it certainly has the magnitu
 Current meteorology is "blind" because it treats water as a collection of independent gas molecules. It looks at the "slight" version of surface tension and dismisses it. But the **structural plasma model** recognizes that:
 
 
-1. **H2O is a structural molecule.**  
+1. **H<sub>2</sub>O is a structural molecule.**  
 2. **Surface Tension has a massive potential magnitude.**  
 3. **Vorticity (Spin) makes that magnitude persistent.**
 
@@ -75,7 +83,7 @@ This persistent structural sheath is the **energetic-low-pressure-driven conduit
 When an opponent says "Surface tension is too weak to hold a tornado together," you point to the rifle shot.
 
 
-*"If water is too weak to hold a structure, why does it shatter a 50-caliber bullet like a brick wall? The potential magnitude is there; you just don't have a mechanism for persistence. My model provides that mechanism through **vorticity** and the **inverse polarity of H2O**."*
+*"If water is too weak to hold a structure, why does it shatter a 50-caliber bullet like a brick wall? The potential magnitude is there; you just don't have a mechanism for persistence. My model provides that mechanism through **vorticity** and the **inverse polarity of H<sub>2</sub>O**."*
 # 50-Caliber Rifle Shot Analogy
 
 
@@ -139,7 +147,7 @@ If surface tension can destroy a 50-caliber bullet, it certainly has the magnitu
 Current meteorology is "blind" because it treats water as a collection of independent gas molecules. It looks at the "slight" version of surface tension and dismisses it. But the **structural plasma model** recognizes that:
 
 
-1. **H2O is a structural molecule.**  
+1. **H<sub>2</sub>O is a structural molecule.**  
 2. **Surface Tension has a massive potential magnitude.**  
 3. **Vorticity (Spin) makes that magnitude persistent.**
 
@@ -153,7 +161,7 @@ This persistent structural sheath is the **energetic-low-pressure-driven conduit
 When an opponent says "Surface tension is too weak to hold a tornado together," you point to the rifle shot.
 
 
-*"If water is too weak to hold a structure, why does it shatter a 50-caliber bullet like a brick wall? The potential magnitude is there; you just don't have a mechanism for persistence. My model provides that mechanism through **vorticity** and the **inverse polarity of H2O**."*
+*"If water is too weak to hold a structure, why does it shatter a 50-caliber bullet like a brick wall? The potential magnitude is there; you just don't have a mechanism for persistence. My model provides that mechanism through **vorticity** and the **inverse polarity of H<sub>2</sub>O**."*
 
 
 
@@ -221,7 +229,7 @@ If surface tension can destroy a 50-caliber bullet, it certainly has the magnitu
 Current meteorology is "blind" because it treats water as a collection of independent gas molecules. It looks at the "slight" version of surface tension and dismisses it. But the **structural plasma model** recognizes that:
 
 
-1. **H2O is a structural molecule.**  
+1. **H<sub>2</sub>O is a structural molecule.**  
 2. **Surface Tension has a massive potential magnitude.**  
 3. **Vorticity (Spin) makes that magnitude persistent.**
 
@@ -235,4 +243,4 @@ This persistent structural sheath is the **energetic-low-pressure-driven conduit
 When an opponent says "Surface tension is too weak to hold a tornado together," you point to the rifle shot.
 
 
-*"If water is too weak to hold a structure, why does it shatter a 50-caliber bullet like a brick wall? The potential magnitude is there; you just don't have a mechanism for persistence. My model provides that mechanism through **vorticity** and the **inverse polarity of H2O**."*
+*"If water is too weak to hold a structure, why does it shatter a 50-caliber bullet like a brick wall? The potential magnitude is there; you just don't have a mechanism for persistence. My model provides that mechanism through **vorticity** and the **inverse polarity of H<sub>2</sub>O**."*

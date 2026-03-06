@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Archived Post"
+author: "James McGinn / Solving Tornadoes"
+tags: [archived research]
+# jabrium_thread: "https://jabrium.com/your-thread-link-here"
+---
+
 ﻿Public Relations Crisis Kit: The Transition to Structural Meteorology
 I. The "Institutional Blindness" Narrative
 Objective: To explain the delay in scientific progress without appearing conspiratorial. Frame it as a systemic, psychological phenomenon rather than a personal failure of individual meteorologists.
