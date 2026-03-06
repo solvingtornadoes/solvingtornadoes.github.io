@@ -1,5 +1,9 @@
-﻿# **Vortices: The Structural Pressure Relief Valves of the Atmosphere**
-
+---
+layout: post
+title: "The Friction Problem and the Convection Fallacy"
+author: "James McGinn / Solving Tornadoes"
+tags: [structural vortex, convection fallacy, plasma sheath, mechanical suction, storm physics]
+---
 
 ## **I. The Friction Problem: Why Gases Cannot Stream**
 
