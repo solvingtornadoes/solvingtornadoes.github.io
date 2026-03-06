@@ -1,5 +1,10 @@
-﻿# Mitigation Strategy
-
+﻿---
+layout: post
+title: "Mitigation Strategy"
+author: "James McGinn / Solving Tornadoes"
+tags: [atmospheric plumbing, plasma conduit, disaster prevention, weather modification, convection model]
+jabrium_thread: "https://jabrium.com/sandbox-test"
+---
 
 The **"Mitigation Strategy"** is where the "Atmospheric Plumbing" map transforms from a theoretical model into a tool for environmental control. Because the storm is powered by a physical structure—the **vortice plasma conduit** —it can be disabled by attacking that structure directly.
 

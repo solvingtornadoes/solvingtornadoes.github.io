@@ -1305,3 +1305,56 @@ cat _includes/custom-head.html
 git add .
 git commit -m "Added global CSS to fix titles and style citations"
 git push
+nano _includes/custom-head.html
+git add .
+git commit -m "Injected raw CSS directly into HTML head"
+git push
+cat _config.yml
+solvingtornadoes@penguin:~$ cat _config.yml
+theme: jekyll-theme-minimal
+exclude: ["research_vault"]
+solvingtornadoes@penguin:~$ 
+mv _includes/custom-head.html _includes/head-custom.html
+git add .
+git commit -m "Renamed HTML injection file to match Minimal theme rules"
+git push
+nano _posts/2026-03-04-correcting-paulings-blunder.md
+git add .
+git commit -m "Added YAML front matter and removed redundant markdown title"
+git push
+nano _posts/2026-03-04-correcting-paulings-blunder.md
+git add .
+git commit -m "Stripped YAML and manual titles for clean automated Jekyll rendering"
+git push
+nano _posts/2026-03-04-correcting-paulings-blunder.md
+git add .
+git commit -m "Added minimal YAML to fix blank bullet point"
+git push
+nano _posts/2026-03-04-correcting-paulings-blunder.md
+git add .
+git commit -m "Added author variable to YAML to complete the byline"
+git push
+nano _posts/2026-03-04-correcting-paulings-blunder.md
+git add .
+git commit -m "Added tags to YAML front matter"
+git push
+nano _posts/2026-03-04-correcting-paulings-blunder.md
+git add .
+git commit -m "Added tags to YAML front matter"
+git push
+nano _posts/2026-03-04-correcting-paulings-blunder.md
+git add .
+git commit -m "Added tags to YAML front matter"
+git push
+git add .
+git commit -m "changing cloud suck title"
+git push
+git add .
+git commit -m "fixing file on website"
+git push
+git add .
+git commit -m "fixing meteorologhy shuns debate"
+git push
+git add .
+git commit -m "fixing friction problem"
+git push
