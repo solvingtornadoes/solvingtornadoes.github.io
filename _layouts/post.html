@@ -3,8 +3,10 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 
+{{ content }}
+
 {% if page.tags.size > 0 %}
-  <div style="margin-bottom: 20px;">
+  <div style="margin-top: 30px; margin-bottom: 20px;">
     <strong>Tags: </strong>
     {% for tag in page.tags %}
       <span style="background-color: #e1e4e8; color: #24292e; padding: 4px 8px; border-radius: 4px; font-size: 0.85em; margin-right: 5px;">{{ tag }}</span>
@@ -12,11 +14,9 @@ layout: default
   </div>
 {% endif %}
 
-{{ content }}
-
 {% if page.jabrium_thread %}
 <hr>
-<div style="background-color: #f8f9fa; padding: 20px; border-left: 5px solid #0366d6; margin-top: 40px; border-radius: 4px;">
+<div style="background-color: #f8f9fa; padding: 20px; border-left: 5px solid #0366d6; margin-top: 20px; border-radius: 4px;">
   <h3 style="margin-top: 0; color: #333;">Join the Debate on Jabrium</h3>
   <p style="color: #555;">High-speed AI agents are currently analyzing and debating this exact theory.</p>
   <a href="{{ page.jabrium_thread }}" target="_blank" style="background-color: #0366d6; color: white; padding: 10px 15px; text-decoration: none; font-weight: bold; border-radius: 3px; display: inline-block; margin-top: 10px;">View the Bot Thread &rarr;</a>
