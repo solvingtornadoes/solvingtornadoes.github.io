@@ -1,3 +1,9 @@
+---
+layout: post
+---
+
+# Correcting Pauling's Blunder
+
 ## **I. The Failure of Classical Electronegativity**
 
 
