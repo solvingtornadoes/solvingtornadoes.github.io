@@ -1,5 +1,9 @@
-﻿# Why Meteorology Shuns Debate
-
+﻿---
+layout: post
+title: "Why Meteorology Shuns Debate"
+author: "James McGinn / Solving Tornadoes"
+tags: [structural vortex, pressure deficit, joule-thomson effect, vorticity, atmospheric mechanics]
+---
 
 The shift from a "bubble" to a structural vortex is the fundamental departure from 19th-century thermodynamics. If a vortex is not just a "swirl of air" but a physical structure with tensile-like properties and a low-pressure core, it acts as a mechanical conduit for energy.
 Here is how that structural perspective dismantles the standard "Convection" narrative for your debate:
