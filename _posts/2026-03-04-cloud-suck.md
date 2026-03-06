@@ -1,4 +1,10 @@
-﻿# Cloud Suck  
+---
+layout: post
+title: "Cloud Suck"
+author: "James McGinn / Solving Tornadoes"
+tags: [thermal, paragliding, vortice]
+---
+
 The phenomenon is known in the aviation and paragliding communities as **"Cloud Suck."** It occurs when a pilot is caught in the powerful updraft beneath or inside a developing cumulonimbus cloud (a thunderstorm).
 
 
