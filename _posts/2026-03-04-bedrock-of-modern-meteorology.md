@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "Archived Post"
+title: "The Bedrock of Modern Meteorology"
 author: "James McGinn / Solving Tornadoes"
-tags: [archived research]
+tags: [tags: [convection model, parcel theory, latent heat, entrainment, vapor physics]]
 # jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
-
-﻿# The Bedrock of Modern Meteorology
-
 
 The **Convection Model** (often called the "Parcel Theory") is the bedrock of modern meteorology. It is discussed in every atmospheric science textbook and serves as the primary mechanism for explaining everything from fair-weather cumulus clouds to supercell thunderstorms.
 

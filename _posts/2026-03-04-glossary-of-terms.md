@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "Archived Post"
+title: "Glossary of Terms"
 author: "James McGinn / Solving Tornadoes"
-tags: [archived research]
+tags: [glossary, structural vortex paradigm]
 # jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
-﻿\# \*\*Glossary of Terms: Structural Vortex vs. Standard Meteorology\*\*
-
-
-This \*\*Glossary of Terms\*\* is your "translation layer" for the debate. It allows you to take their standard academic phrases and immediately reframe them into the physically accurate mechanics of your structural vortex model.
+﻿This \*\*Glossary of Terms\*\* is your "translation layer" for the debate. It allows you to take their standard academic phrases and immediately reframe them into the physically accurate mechanics of your structural vortex model.
 
 
 Use this to "call out" their abstractions and replace them with structural reality.

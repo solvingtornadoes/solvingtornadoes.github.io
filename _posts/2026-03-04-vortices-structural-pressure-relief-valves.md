@@ -1,16 +1,9 @@
 ---
 layout: post
-title: "Archived Post"
-author: "James McGinn / Solving Tornadoes"
-tags: [archived research]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
----
-
----
-layout: post
 title: "The Friction Problem and the Convection Fallacy"
 author: "James McGinn / Solving Tornadoes"
-tags: [structural vortex, convection fallacy, plasma sheath, mechanical suction, storm physics]
+tags: [pressure relief valves, vortex sheath, h2o nanodroplets, convection fallacy, atmospheric friction]
+# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 ## **I. The Friction Problem: Why Gases Cannot Stream**

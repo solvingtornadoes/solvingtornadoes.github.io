@@ -1,14 +1,9 @@
 ---
 layout: post
-title: "Archived Post"
-author: "James McGinn / Solving Tornadoes"
-tags: [archived research]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
----
-
----
-layout: default
 title: "The Funnel Effect"
+author: "James McGinn / Solving Tornadoes"
+tags: [static electricity]
+# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 # The Funnel Effect: Cohesiveness and Static Electricity

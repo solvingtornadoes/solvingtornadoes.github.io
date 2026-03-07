@@ -1,18 +1,12 @@
 ---
 layout: post
-title: "Archived Post"
+title: "Is The Convection Model Tested?"
 author: "James McGinn / Solving Tornadoes"
-tags: [archived research]
+tags: [convection model, fluid dynamics, entrainment]
 # jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
-﻿# Is The Convection Model Tested?
-
-
-To give you high-level "ammunition" for a debate, you need to look past the introductory textbook definitions and into the actual fluid dynamics and "sensitivity experiments" performed by atmospheric scientists.
-
-
-While the Convection Model is the consensus, it is not "untested." In fact, it is constantly being stress-tested in numerical models. Here are the technical details and specific peer-reviewed avenues you can use to challenge or refine the discussion.
+﻿While the Convection Model is the consensus, it is not "untested." In fact, it is constantly being stress-tested in numerical models. Here are the technical details and specific peer-reviewed avenues you can use to challenge or refine the discussion.
 
 
 ---

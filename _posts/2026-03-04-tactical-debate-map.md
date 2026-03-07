@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "Archived Post"
+title: "Tactical Debate Map"
 author: "James McGinn / Solving Tornadoes"
-tags: [archived research]
+tags: [convection myth, cloud suck, latent heat]
 # jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
-
-﻿# Tactical Debate Map
-
 
 This **Tactical Debate Map** is designed to lead a "True Believer" in the Convection Model into a corner where their own textbook definitions contradict physical reality. By following this sequence, you force them to defend the "whittled pegs" of their institution until the structural failure becomes undeniable.
 

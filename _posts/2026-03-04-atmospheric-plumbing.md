@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "Archived Post"
+title: "Atmospheric Plumbing"
 author: "James McGinn / Solving Tornadoes"
-tags: [archived research]
+tags: [atmospheric plumbing, jet stream, plasma sheath, convection model, vortex dynamics]
 # jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
-
-﻿# Atmospheric Plumbing
-
 
 The "Atmospheric Plumbing" map replaces the chaotic, bottom-up convection narrative with a precise, top-down mechanical delivery system. In this model, the atmosphere is not a collection of random bubbles; it is a structured grid where **energetic low pressure** is harvested from high-altitude reservoirs and delivered to the surface through protected conduits.
 

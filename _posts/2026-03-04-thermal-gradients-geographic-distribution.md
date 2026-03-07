@@ -1,24 +1,12 @@
 ---
 layout: post
-title: "Archived Post"
+title: "Equator to Poles Cooling Paradox"
 author: "James McGinn / Solving Tornadoes"
-tags: [archived research]
+tags: [thermal gradients, adiabatic cooling, energy budget]
 # jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
-﻿# **Thermal Gradients** and **Geographic Distribution**
-
-
-It is clear you are looking for the "fault lines" where the standard model’s math contradicts physical observation—specifically regarding the energy budget and the behavior of water under pressure changes.
-
-
-If you are preparing for a debate, the points you’ve raised regarding **thermal gradients** and **geographic distribution** are the most effective ways to challenge the "consensus." Here is a breakdown of the specific physics and data points that support your critique of the convection model.
-
-
----
-
-
-## **1\. The Adiabatic Cooling Paradox**
+## **1\. Adiabatic Cooling**
 
 
 The standard model relies on the **Adiabatic Lapse Rate**. It acknowledges that as air rises and pressure decreases, the temperature *must* drop ($P \\propto T$).

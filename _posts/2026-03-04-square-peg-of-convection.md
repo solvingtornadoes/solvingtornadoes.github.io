@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "Archived Post"
+title: "The Square Peg of Convection"
 author: "James McGinn / Solving Tornadoes"
-tags: [archived research]
+tags: [structural vortices, energetic low pressure, atmospheric leverage, multi-vortex, pauling's blunder]
 # jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
-﻿# **The Square Peg of Convection:**
-
-
-This paper synthesizes the structural mechanics of atmospheric vortices with the molecular physics of $H\_2O$. It argues that the "Convection Model" is a stagnant institutional myth and provides a new framework for understanding storm energetics through the lens of structural conduits and multi-vortex leverage.
+﻿This paper synthesizes the structural mechanics of atmospheric vortices with the molecular physics of $H\_2O$. It argues that the "Convection Model" is a stagnant institutional myth and provides a new framework for understanding storm energetics through the lens of structural conduits and multi-vortex leverage.
 
 
 ---

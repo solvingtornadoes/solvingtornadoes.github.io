@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "Archived Post"
+title: "50-Caliber Rifle Shot Analogy"
 author: "James McGinn / Solving Tornadoes"
-tags: [archived research]
+tags: [surface tension, structural plasma, molecular cohesion, kinetic energy, fluid dynamics]
 # jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
-
-﻿# 50-Caliber Rifle Shot Analogy
-
 
 The plausibility of a "structural plasma" made of water hinges on moving past the common perception of surface tension as a weak, "slight" force that only affects bugs on a pond. To understand how it can form the rigid, 100-mph walls of a vortex, we have to look at how water behaves under extreme kinetic conditions.
 

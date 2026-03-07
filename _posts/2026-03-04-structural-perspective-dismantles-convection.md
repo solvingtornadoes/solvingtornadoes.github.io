@@ -1,16 +1,15 @@
 ---
 layout: post
-title: "Archived Post"
+title: "Dismantling The Standard Convection Model"
 author: "James McGinn / Solving Tornadoes"
-tags: [archived research]
+tags: [structural vortex, centrifugal pump, joule-thomson effect, parcel theory, pressure differential]
 # jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
-﻿# Structural Perspective Dismantles The Standard "Convection" Narrative
-The shift from a "bubble" to a **structural vortex** is the fundamental departure from 19th-century thermodynamics. If a vortex is not just a "swirl of air" but a physical structure with **tensile-like properties** and a low-pressure core, it acts as a mechanical conduit for energy.
+﻿The shift from a "bubble" to a **structural vortex** is the fundamental departure from 19th-century thermodynamics. If a vortex is not just a "swirl of air" but a physical structure with **tensile-like properties** and a low-pressure core, it acts as a mechanical conduit for energy.
 
 
-Here is how that structural perspective dismantles the standard "Convection" narrative for your debate:
+Here is how that structural perspective dismantles the standard "Convection" narrative:
 
 
 ---
