@@ -13,9 +13,9 @@ This index serves as the logical map of the **Solving Tornadoes** research archi
 ## **I. Molecular Foundations: The Micro-Scale**
 The "Convection Myth" begins with a misunderstanding of the H₂O molecule. These papers correct the foundational chemistry required to understand atmospheric structure.
 
-* **[Pauling’s Blunder: The Static Fallacy](./paulings-blunder)** *Why the 1950s model of the hydrogen bond failed to recognize water's structural potential.*
-* **[The Proximity Switch: Variable Polarity](./proximity-switch)** *How H₂O polarity is not a constant, but a dynamic reaction to kinetic energy and proximity.*
-* **[Molecular Weight vs. Structural Mass](./molecular-weight-myth)** *Dismantling the "Moist Air is Lighter" myth using the physics of the plasma matrix.*
+* **[Pauling’s Blunder: The Static Fallacy](/paulings-blunder-vs-solving tornadoes/)** *Why the 1950s model of the hydrogen bond failed to recognize water's structural potential.*
+* **[The Proximity Switch: Variable Polarity](/proximity-switch/)** *How H₂O polarity is not a constant, but a dynamic reaction to kinetic energy and proximity.*
+* **[Molecular Weight vs. Structural Mass](/molecular-weight-myth/)** *Dismantling the "Moist Air is Lighter" myth using the physics of the plasma matrix.*
 
 
 
@@ -24,9 +24,9 @@ The "Convection Myth" begins with a misunderstanding of the H₂O molecule. Thes
 ## **II. Vortex Mechanics: The Atmospheric Pipe**
 Vortices are not "accidents" of weather; they are the primary mechanical delivery systems for energy in our atmosphere.
 
-* **[Structural Plasma: The 50/50 Bond Distribution](./structural-plasma)** *The material science of the vortex wall: neither gas nor liquid, but a high-strength sheath.*
-* **[Vortices: The Pressure Relief Valves of the Atmosphere](./pressure-relief-valves)** *Why gases alone cannot build a high-velocity jet stream without a structural container.*
-* **[The Suction Pipe: Top-Down Pressure Delivery](./suction-pipe)** *Moving the debate from "Floating Bubbles" to "Mechanical Conduits."*
+* **[Structural Plasma: The 50/50 Bond Distribution](/structural-plasma/)** *The material science of the vortex wall: neither gas nor liquid, but a high-strength sheath.*
+* **[Vortices: The Pressure Relief Valves of the Atmosphere](/pressure-relief-valves/)** *Why gases alone cannot build a high-velocity jet stream without a structural container.*
+* **[The Suction Pipe: Top-Down Pressure Delivery](/suction-pipe/)** *Moving the debate from "Floating Bubbles" to "Mechanical Conduits."*
 
 
 
@@ -35,9 +35,9 @@ Vortices are not "accidents" of weather; they are the primary mechanical deliver
 ## **III. The Convection Critique: Dismantling the Consensus**
 These articles identify the specific mathematical and physical failures of 19th-century thermodynamics.
 
-* **[The Convection Myth: The Boiling Pot Fallacy](./convection-myth)** *Why the "Steam Engine" model of meteorology cannot explain a cold-core storm.*
-* **[The Geographic Paradox: Why the Equator is "Lazy"](./geographic-paradox)** *Proving that evaporation intensity does not correlate with kinetic storm intensity.*
-* **[The Joule-Thomson Effect: The Truth Behind the Cold Kill](./joule-thomson)** *Explaining why violent updrafts are refrigeration events caused by mechanical work.*
+* **[The Convection Myth: The Boiling Pot Fallacy](/convection-myth/)** *Why the "Steam Engine" model of meteorology cannot explain a cold-core storm.*
+* **[The Geographic Paradox: Why the Equator is "Lazy"](/geographic-paradox/)** *Proving that evaporation intensity does not correlate with kinetic storm intensity.*
+* **[The Joule-Thomson Effect: The Truth Behind the Cold Kill](/joule-thomson/)** *Explaining why violent updrafts are refrigeration events caused by mechanical work.*
 
 
 
@@ -46,17 +46,17 @@ These articles identify the specific mathematical and physical failures of 19th-
 ## **IV. Empirical Evidence & Ground Truth**
 Hard data and in-situ measurements that the Convection Model simply cannot account for.
 
-* **[The Tulia & Manchester Record Pressure Drops](./pressure-deficit-data)** *Analyzing the 194mb and 100mb vacuum events that prove the "Suction" model.*
-* **[Cloud Suck: The Tragedy of Mechanical Decompression](./cloud-suck)** *The empirical smoking gun: Why the most violent updrafts on Earth are lethally cold.*
+* **[The Tulia & Manchester Record Pressure Drops](/pressure-deficit-data/)** *Analyzing the 194mb and 100mb vacuum events that prove the "Suction" model.*
+* **[Cloud Suck: The Tragedy of Mechanical Decompression](/cloud-suck/)** *The empirical smoking gun: Why the most violent updrafts on Earth are lethally cold.*
 
 ---
 
 ## **V. Strategy & The Future: SAM Technology**
 Turning theoretical physics into a high-ROI industry for hurricane mitigation and steering.
 
-* **[SAM Technology: An Investment Prospectus](./sam-prospectus)** *The business of Structural Atmospheric Mitigation: Breaking the plumbing of a storm.*
-* **[Tactical Debate Map: How to Win the Convection Argument](./debate-map)** *A field manual for defending the Structural Paradigm against institutional bias.*
-* **[The PR Crisis Kit: Managing the Paradigm Shift](./pr-crisis-kit)** *Communicating the "Missing Round Peg" to the general public and the media.*
+* **[SAM Technology: An Investment Prospectus](/sam-prospectus/)** *The business of Structural Atmospheric Mitigation: Breaking the plumbing of a storm.*
+* **[Tactical Debate Map: How to Win the Convection Argument](/debate-map/)** *A field manual for defending the Structural Paradigm against institutional bias.*
+* **[The PR Crisis Kit: Managing the Paradigm Shift](/pr-crisis-kit/)** *Communicating the "Missing Round Peg" to the general public and the media.*
 
 
 
@@ -64,7 +64,7 @@ Turning theoretical physics into a high-ROI industry for hurricane mitigation an
 
 ## **About the Author & Project**
 
-**James McGinn** is the founder of **Solving Tornadoes** and the architect of the **Structural Vortex Paradigm**. Based in Mountain View, California, James is currently developing **Jabrium**, an AI-driven platform designed to challenge institutional inertia and advance mechanical atmospheric engineering.
+**James McGinn** is the founder of **Solving Tornadoes** and the architect of the **Structural Vortex Paradigm**. Based in Mountain View, California, James is currently developing **Jabrium**, an AI-driven platform.
 
 ### **Connect & Collaborate**
 I am frequently found at **Hacker Dojo** in Mountain View, working on the next phase of SAM (Structural Atmospheric Mitigation) technology and Jabrium's core logic.
