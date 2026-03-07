@@ -3,7 +3,6 @@ layout: post
 title: "Hydrogen Bonding Dynamic Switch"
 author: "James McGinn / Solving Tornadoes"
 tags: [molecular polarity, hydrogen bonding, water anomalies, linus pauling]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 **The Failure of the Traditional Model** Traditional explanations for water's unusual behavior have heavily relied on the classical view—championed by Linus Pauling in the 1950s—which attributes molecular polarity strictly to the inherent electronegativity differences between oxygen and hydrogen. However, this static perspective is vastly underpowered. It fails to account for more than 70 observed anomalies in water’s physical properties. We contend that the primary determinant of a molecule’s polarity is not a simple, static difference in electronegativity, but rather the dynamic, vectorial interplay of the intrinsic electrical fields produced by the individual atoms.

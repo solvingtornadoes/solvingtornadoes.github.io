@@ -3,7 +3,6 @@ layout: post
 title: "Strategic Investment Opportunity"
 author: "James McGinn / Solving Tornadoes"
 tags: [atmospheric engineering, hurricane steering, investment prospectus]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 The following proposal outlines a strategic investment opportunity in **Structural Atmospheric Mitigation (SAM)**. This approach moves beyond the passive observation and failed "seeding" attempts of the past, focusing instead on the direct mechanical manipulation of the conduits that drive severe weather events.

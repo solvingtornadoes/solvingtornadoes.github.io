@@ -3,7 +3,6 @@ layout: post
 title: "Correcting Pauling's Blunder"
 author: "James McGinn / Solving Tornadoes"
 tags: [hydrogen bond, electronegativity, water, physics]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 ## **I. The Failure of Classical Electronegativity**

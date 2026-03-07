@@ -3,7 +3,6 @@ layout: post
 title: "Glossary of Terms"
 author: "James McGinn / Solving Tornadoes"
 tags: [glossary, structural vortex paradigm]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 ﻿This \*\*Glossary of Terms\*\* is your "translation layer" for the debate. It allows you to take their standard academic phrases and immediately reframe them into the physically accurate mechanics of your structural vortex model.

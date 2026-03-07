@@ -3,7 +3,6 @@ layout: post
 title: "Pressure Differential Engine"
 author: "James McGinn / Solving Tornadoes"
 tags: [pressure differential, centrifugal pump, thermodynamic shortcut, cloud suck, carnot efficiency]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 ﻿This is the **"Pressure Differential Engine"** that makes the vortex a self-sustaining mechanical structure.

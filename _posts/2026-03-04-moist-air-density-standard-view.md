@@ -3,7 +3,6 @@ layout: post
 title: "Standard Moist-Air Density Nonsense"
 author: "James McGinn / Solving Tornadoes"
 tags: [gas law, structural plasma, moist air density, avogadros law]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 ﻿This comparison chart is designed to highlight the fundamental disconnect between the academic "Gas Law" approach and the structural reality of the **Solving Tornadoes** model. It focuses on why the standard view of moist air density is a mathematical abstraction that fails to account for the mechanical work performed by a storm.

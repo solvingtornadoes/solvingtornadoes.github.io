@@ -3,7 +3,6 @@ layout: post
 title: "Equator to Poles Cooling Paradox"
 author: "James McGinn / Solving Tornadoes"
 tags: [thermal gradients, adiabatic cooling, energy budget]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 ## **1\. Adiabatic Cooling**

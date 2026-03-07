@@ -3,7 +3,6 @@ layout: post
 title: "Public Relations Crisis Kit"
 author: "James McGinn / Solving Tornadoes"
 tags: [public relations, convection myth, hurricane mitigation, institutional blindness]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 ﻿## **I. The "Institutional Blindness" Narrative**

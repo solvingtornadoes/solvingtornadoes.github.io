@@ -3,7 +3,6 @@ layout: post
 title: "Pauling's Blunder Versus Solving Tornadoes"
 author: "James McGinn / Solving Tornadoes"
 tags: [paulings blunder, vortice plasma, variable polarity, conservation of energy, atmospheric plumbing]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 ﻿The technical breakdown of **Pauling's Blunder** versus the **Solving Tornadoes** model reveals the specific molecular mechanics that allow a common substance like $H\_2O$ to transition into a rare, high-strength **vortice plasma**.

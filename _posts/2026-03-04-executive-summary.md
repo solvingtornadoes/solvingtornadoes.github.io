@@ -3,7 +3,6 @@ layout: post
 title: "Executive Summary"
 author: "James McGinn / Solving Tornadoes"
 tags: [tags: [structural vortex paradigm, debate strategy, convection theory, cloud suck, paulings blunder]]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 This **Executive Summary** is designed as a high-impact "cheat sheet" for a debate. It distills the complex physics into sharp, punchy points that target the specific weaknesses of the standard meteorological model.

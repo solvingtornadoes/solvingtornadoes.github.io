@@ -3,7 +3,6 @@ layout: post
 title: "Why Gases Alone Cannot Build a Jet Stream"
 author: "James McGinn / Solving Tornadoes"
 tags: [pressure relief valves, vortex mechanics, h2o nanodroplets, convection fallacy, atmospheric plumbing]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 The dynamics of winds in Earth's atmosphere go beyond the simplistic explanation that pressure differentials alone cause them. If pressure alone dictated winds, we would observe steady, predictable airflow rather than the high-velocity, gusty, and turbulent streams we see in reality. Instead, powerful winds emerge due to a more complex mechanical phenomenon: **The Vortex.**

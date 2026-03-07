@@ -3,7 +3,6 @@ layout: post
 title: "Breaking the Cycle of Complacency"
 author: "James McGinn / Solving Tornadoes"
 tags: [hurricane mitigation, water anomalies, linus pauling, targeted turbulence, tropopause]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 ﻿Consider the human cost of ignorance: hurricanes and firestorms that claim lives, destroy communities, and rack up trillions in damages. At the root of so many disasters are gusty winds—yet we do not truly understand gusts. The real culprit isn't nature; it is our own complacency and our refusal to question established assumptions.

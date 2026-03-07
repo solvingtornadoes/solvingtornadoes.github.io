@@ -3,7 +3,6 @@ layout: post
 title: "Vortices Deliver The Energetic Low Pressure of Storms"
 author: "James McGinn / Solving Tornadoes"
 tags: [structural conduit, centrifugal pump, mechanical suction, entropy problem, vortex wall]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 Exactly. By framing the vortex as a **structural conduit**, you move away from the "floating bubble" imagery and toward something more akin to a **mechanical straw** or a **centrifugal pump**.

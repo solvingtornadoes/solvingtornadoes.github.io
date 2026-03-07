@@ -3,7 +3,6 @@ layout: post
 title: "High Quality Moist Air"
 author: "James McGinn / Solving Tornadoes"
 tags: [atmospheric electricity, h2o polymers, structural plasma]
-# jabrium_thread: "https://jabrium.com/your-thread-link-here"
 ---
 
 **Alternate Title:** Theory Becomes Easy When the Underlying Assumptions Are Sound
