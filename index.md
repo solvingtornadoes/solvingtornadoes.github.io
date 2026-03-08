@@ -25,7 +25,7 @@ The "Convection Myth" begins with a misunderstanding of the H₂O molecule. Thes
 Vortices are not "accidents" of weather; they are the primary mechanical delivery systems for energy in our atmosphere.
 
 * **[Structural Plasma: The 50/50 Bond Distribution](/structural-perspective-dismantles-convection/)** *The material science of the vortex wall: neither gas nor liquid, but a high-strength sheath.*
-* **[Vortices: The Pressure Relief Valves of the Atmosphere](/vortices-pressure-relief-valves/)** *Why gases alone cannot build a high-velocity jet stream without a structural container.*
+* **[Vortices: The Pressure Relief Valves of the Atmosphere](/vortices-deliver-energetic-low-pressure.md/)** *Why gases alone cannot build a high-velocity jet stream without a structural container.*
 * **[The Suction Pipe: Top-Down Pressure Delivery](/suction-pipe/)** *Moving the debate from "Floating Bubbles" to "Mechanical Conduits."*
 
 

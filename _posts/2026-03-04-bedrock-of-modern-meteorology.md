@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Bedrock of Modern Meteorology"
+title: "Bedrock of Modern Meteorology"
 author: "James McGinn / Solving Tornadoes"
 tags: [tags: [convection model, parcel theory, latent heat, entrainment, vapor physics]]
 ---

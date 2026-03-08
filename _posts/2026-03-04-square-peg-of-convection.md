@@ -5,7 +5,7 @@ author: "James McGinn / Solving Tornadoes"
 tags: [structural vortices, energetic low pressure, atmospheric leverage, multi-vortex, pauling's blunder]
 ---
 
-﻿This paper synthesizes the structural mechanics of atmospheric vortices with the molecular physics of $H\_2O$. It argues that the "Convection Model" is a stagnant institutional myth and provides a new framework for understanding storm energetics through the lens of structural conduits and multi-vortex leverage.
+﻿This paper synthesizes the structural mechanics of atmospheric vortices with the molecular physics of H<sub>2</sub>O. It argues that the "Convection Model" is a stagnant institutional myth and provides a new framework for understanding storm energetics through the lens of structural conduits and multi-vortex leverage.
 
 
 ---
@@ -26,10 +26,10 @@ In meteorology, this "whittled peg" is the **Convection Model**. Despite its sta
 ## **II. Pauling’s Blunder: The Structural Root of the Failure**
 
 
-The handicapping of meteorology begins in the foundational understanding of the $H\_2O$ molecule. In the seminal work *“Pauling’s Blunder,”* it is revealed that chemistry and physics have failed to correctly describe the mutual inverse variability of $H\_2O$ molecules.
+The handicapping of meteorology begins in the foundational understanding of the H<sub>2</sub>O molecule. In the seminal work *“Pauling’s Blunder,”* it is revealed that chemistry and physics have failed to correctly describe the mutual inverse variability of H<sub>2</sub>O molecules.
 
 
-Linus Pauling’s model of the hydrogen bond treated it as a relatively static, electrostatic attraction. This "blunder" ignored the dynamic, structural consequences of water molecules interacting under atmospheric conditions. In reality, $H\_2O$ exhibits a unique ability to form coherent, **tensile structures** even in the vapor phase.
+Linus Pauling’s model of the hydrogen bond treated it as a relatively static, electrostatic attraction. This "blunder" ignored the dynamic, structural consequences of water molecules interacting under atmospheric conditions. In reality, H<sub>2</sub>O exhibits a unique ability to form coherent, **tensile structures** even in the vapor phase.
 
 
 #### **The Tensile Strength of the Vortex Wall**
@@ -40,7 +40,7 @@ Because water molecules possess this "structural grip," they do not behave as a 
 
 * **Coherence:** This tensile property allows a vortex to develop a "skin" or a "shell."  
 * **The Centrifugal Container:** As the vortex spins, the structural $H\_2O$ is pushed outward. Because of the tensile nature of these molecular bonds, they create a rigid, self-supporting wall.  
-* **Isolation:** This wall is what allows the vortex to maintain an internal vacuum. Without the "tensile strength" derived from $H\_2O$’s structural variability, the low pressure would instantly collapse.
+* **Isolation:** This wall is what allows the vortex to maintain an internal vacuum. Without the "tensile strength" derived from H<sub>2</sub>O’s structural variability, the low pressure would instantly collapse.
 
 
 ## **III. The Energetic-Low-Pressure-Driven Conduit**
@@ -82,7 +82,7 @@ This explains why hurricanes are so incredibly energetic. They are not "single b
 ## **VI. Conclusion: Beyond the Whittle-Down Paradigm**
 
 
-Meteorology has retreated into 19th-century notions of "steam power" to protect a consensus that cannot survive modern fluid dynamics. By ignoring the structural properties of $H\_2O$ and the mechanical reality of the **energetic-low-pressure-driven conduit**, the discipline has become a closed loop of self-perpetuating myths.
+Meteorology has retreated into 19th-century notions of "steam power" to protect a consensus that cannot survive modern fluid dynamics. By ignoring the structural properties of H<sub>2</sub>O and the mechanical reality of the **energetic-low-pressure-driven conduit**, the discipline has become a closed loop of self-perpetuating myths.
 
 
 Only by identifying the true nature of water—a molecule capable of structural tensile strength—can we move past the "whittled pegs" of the current paradigm. We must recognize that the vortex is not an accident of heat, but a sophisticated mechanical structure that defines the very physics of our atmosphere.

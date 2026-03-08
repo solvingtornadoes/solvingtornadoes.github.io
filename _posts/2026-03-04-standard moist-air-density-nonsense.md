@@ -17,7 +17,7 @@ tags: [gas law, structural plasma, moist air density, avogadros law]
 | Feature | Standard Meteorology (Gas Law View) | Solving Tornadoes (Structural Plasma View) |
 | :---- | :---- | :---- |
 | **Physical State of $H\_2O$** | Discrete, independent gas molecules. | **Coherent, structural plasma matrix.** |
-| **Density Argument** | Moist air is "lighter" because $H\_2O$ (18g/mol) \< $N\_2$ (28g/mol). | Moist air creates **structural mass** through amplified surface tension. |
+| **Density Argument** | Moist air is "lighter" because H<sub>2</sub>O (18g/mol) \ N<sub>2</sub> (28g/mol). | Moist air creates **structural mass** through amplified surface tension. |
 | **Mechanical Role** | Passive "fuel" that provides buoyancy. | **Active "handle"** that provides mechanical leverage. |
 | **Molecular Behavior** | Random collisions (Brownian motion). | **Collective tensile "grip"** (Mutual Inverse Variability). |
 | **Energy Mechanism** | Latent heat (Internal thermodynamics). | **Suction/Pressure Differential (Mechanical Conduit).** |
@@ -33,7 +33,7 @@ tags: [gas law, structural plasma, moist air density, avogadros law]
 #### **1\. The Standard View: The Buoyancy Fallacy**
 
 
-The academic model relies on Avogadro’s Law to claim that adding water vapor makes air lighter. While the *individual* molecular weight of $H\_2O$ is lower, this view assumes water molecules have no relationship with one another. It treats the atmosphere like a container of marbles where some marbles are slightly smaller.
+The academic model relies on Avogadro’s Law to claim that adding water vapor makes air lighter. While the *individual* molecular weight of H<sub>2</sub>O is lower, this view assumes water molecules have no relationship with one another. It treats the atmosphere like a container of marbles where some marbles are slightly smaller.
 
 
 * **The Failure:** If moist air were simply "lighter," it would drift upward in a disorganized fashion. It would lack the tensile strength required to form the 100+ mph "walls" of a tornado.

@@ -5,7 +5,7 @@ author: "James McGinn / Solving Tornadoes"
 tags: [paulings blunder, vortice plasma, variable polarity, conservation of energy, atmospheric plumbing]
 ---
 
-The technical breakdown of **Pauling's Blunder** versus the **Solving Tornadoes** model reveals the specific molecular mechanics that allow a common substance like $H\_2O$ to transition into a rare, high-strength **vortice plasma**.
+The technical breakdown of **Pauling's Blunder** versus the **Solving Tornadoes** model reveals the specific molecular mechanics that allow a common substance like H<sub>2</sub>O to transition into a rare, high-strength **vortice plasma**.
 
 
 ---
@@ -20,7 +20,7 @@ To understand why "plasma" is the missing round peg, we must first identify wher
 | Feature | Pauling’s Model (The Blunder) | Solving Tornadoes (The Reality) |
 | :---- | :---- | :---- |
 | **Nature of H-Bond** | Static electrostatic attraction. | **Dynamic inverse variability.** |
-| **Polarity & Bonding** | Polarity is a constant attribute of the $H\_2O$ molecule. | Polarity is an **inverse consequence** of bonding. |
+| **Polarity & Bonding** | Polarity is a constant attribute of the H<sub>2</sub>O molecule. | Polarity is an **inverse consequence** of bonding. |
 | **Liquid Strength** | Liquid water is "sticky" but structurally weak. | Liquid water is weak because **full bonding cancels polarity.** |
 | **Structural Source** | None; requires phase change (ice) for strength. | **Partial bonding** creates instantaneous high-polarity "grip." |
 
@@ -35,7 +35,7 @@ The "Solving Tornadoes" insight identifies that polarity is not a fixed number; 
 
 
 1. **The Polarity Cancellation:** In bulk liquid water, where molecules are fully tetrahedral and bonds are completed, the electrical charges effectively "cancel out." This leads to a state of high bonding but **zero structural strength**. This is why liquid water is fluid and easily deformed.  
-2. **The Structural Spike:** When a bond is broken or prevented from forming, the instantaneous polarity of the $H\_2O$ molecule spikes. This increased polarity creates a powerful "grip" on neighboring molecules.  
+2. **The Structural Spike:** When a bond is broken or prevented from forming, the instantaneous polarity of the H<sub>2</sub>O molecule spikes. This increased polarity creates a powerful "grip" on neighboring molecules.  
 3. **The 50/50 Sweet Spot:** The "Plasma" state occurs when the atmosphere reaches a precise 50/50 distribution of broken and completed bonds. This creates a matrix of water molecules that are both flexible enough to flow and rigid enough to possess **tensile strength**.
 
 

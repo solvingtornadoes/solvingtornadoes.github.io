@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Friction Problem and the Convection Fallacy"
+title: "The Friction Problem"
 author: "James McGinn / Solving Tornadoes"
 tags: [pressure relief valves, vortex sheath, h2o nanodroplets, convection fallacy, atmospheric friction]
 ---
