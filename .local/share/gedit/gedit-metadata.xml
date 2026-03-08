@@ -43,17 +43,20 @@
   <entry key="gedit-spell-language" value="en_US"/>
   <entry key="gedit-position" value="104"/>
  </document>
- <document uri="file:///home/solvingtornadoes/index.md" atime="1772847190686">
+ <document uri="file:///home/solvingtornadoes/index.md" atime="1772902681103">
   <entry key="gedit-encoding" value="UTF-8"/>
   <entry key="gedit-spell-language" value="en_US"/>
-  <entry key="gedit-position" value="3511"/>
+  <entry key="gedit-position" value="3445"/>
  </document>
  <document uri="file:///home/solvingtornadoes/_posts/2026-03-04-pressure-differential-engine.md" atime="1772842311472">
   <entry key="gedit-encoding" value="UTF-8"/>
   <entry key="gedit-spell-language" value="en_US"/>
   <entry key="gedit-position" value="201"/>
  </document>
- <document uri="file:///home/solvingtornadoes/_posts/2026-03-04-paulings-blunder-vs-solving-tornadoes.md" atime="1772841992598">
+ <document uri="file:///home/solvingtornadoes/research_vault/misattribution_of_causation.md" atime="1772944384229">
+  <entry key="gedit-position" value="0"/>
+ </document>
+ <document uri="file:///home/solvingtornadoes/_posts/2026-03-04-paulings-blunder-vs-solving-tornadoes.md" atime="1772902343388">
   <entry key="gedit-encoding" value="UTF-8"/>
   <entry key="gedit-spell-language" value="en_US"/>
   <entry key="gedit-position" value="196"/>
@@ -131,15 +134,20 @@
   <entry key="gedit-spell-language" value="en_US"/>
   <entry key="gedit-position" value="216"/>
  </document>
- <document uri="file:///home/solvingtornadoes/_posts/2026-03-04-vortices-pressure-relief-valves.md" atime="1772845185705">
+ <document uri="file:///home/solvingtornadoes/_config.yml" atime="1772900853063">
   <entry key="gedit-encoding" value="UTF-8"/>
   <entry key="gedit-spell-language" value="en_US"/>
-  <entry key="gedit-position" value="220"/>
+  <entry key="gedit-position" value="75"/>
  </document>
  <document uri="file:///home/solvingtornadoes/_posts/2026-03-04-square-peg-of-convection.md" atime="1772843101876">
   <entry key="gedit-encoding" value="UTF-8"/>
   <entry key="gedit-spell-language" value="en_US"/>
   <entry key="gedit-position" value="184"/>
+ </document>
+ <document uri="file:///home/solvingtornadoes/_posts/2026-03-04-vortices-pressure-relief-valves.md" atime="1772845185705">
+  <entry key="gedit-encoding" value="UTF-8"/>
+  <entry key="gedit-spell-language" value="en_US"/>
+  <entry key="gedit-position" value="220"/>
  </document>
  <document uri="file:///home/solvingtornadoes/drive-key.json" atime="1772138545799">
   <entry key="gedit-encoding" value="UTF-8"/>

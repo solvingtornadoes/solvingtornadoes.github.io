@@ -1358,3 +1358,151 @@ git push
 git add .
 git commit -m "fixing friction problem"
 git push
+mkdir -p _layouts
+nano _layouts.html
+nano _posts/2026-03-06-the-friction-problem.md
+git add .
+git commit -m "Added custom Jabrium bridge layout and tested on recent post"
+git push
+git add .
+git commit -m "Added custom Jabrium bridge layout and tested on recent post"
+git push
+ls
+cat _layouts/post.html
+rm '*Note:' _layouts.html
+mkdir -p _layouts && nano _layouts/post.html
+git add _layouts/post.html
+git push
+solvingtornadoes@penguin:~$ cat _layouts/post.html
+cat: _layouts/post.html: No such file or directory
+solvingtornadoes@penguin:~$ rm '*Note:' _layouts.html
+solvingtornadoes@penguin:~$ mkdir -p _layouts && nano _layouts/post.html
+solvingtornadoes@penguin:~$ git add _layouts/post.html
+solvingtornadoes@penguin:~$ git push
+Everything up-to-date
+solvingtornadoes@penguin:~$ [200~git commit -m "Successfully added Jabrium bridge layout"~
+git commit -m "Successfully added Jabrium bridge layout"
+git push
+nano cleanup.py
+nano _layouts/post.html
+git add _layouts/post.html
+git commit -m "Added code to display YAML tags on posts"
+git push
+solvingtornadoes@penguin:~$ git push
+Everything up-to-date
+git status
+nano _layouts/post.html
+git add _layouts/post.html
+git add _posts/2026-03-04-why-meteorology-shuns-debate.md
+git commit -m "Added tag display engine and updated meteorology post"
+git push
+nano _layouts/post.html
+git add _layouts/post.html
+git commit -m "Moved tag display to the bottom of the post"
+git push
+python3 cleanup.py
+git add _posts/
+git commit -m "Batch automated YAML formatting and H2O cleanup"
+git push
+git add .
+git commit -m "Refactor: Modernize Solving Tornadoes archives; implement Structural Vortex Paradigm, H2O Plasma mechanics, and SAM investment prospectus. Fixed H2O subscripts and cross-linked tactical debate assets."
+git push origin main
+git add .
+
+git commit -m "Launch: Completed Site Index and About/Contact sections. Finalized 'Solving Tornadoes' as a professional-grade research archive. Linked SAM Prospectus and Jabrium startup details."
+git push origin main
+git add _config.yml
+git commit -m "Fix routing: added permalink setting to resolve 404s"
+git push origin main
+git add _config.yml
+git commit -m "2nd fix routing: changed names in index to resolve 404s"
+git add index.md
+git commit -m "2nd fix routing: changed names in index to resolve 404s"
+git push origin main
+git add index.md
+git add paulings-blunder.md
+solvingtornadoes@penguin:~$ git add index.md
+solvingtornadoes@penguin:~$ git add paulings-blunder.md
+fatal: pathspec 'paulings-blunder.md' did not match any files
+solvingtornadoes@penguin:~$ 
+git add 2026-03-04-paulings-blunder.md
+[200~git add _posts/2026-03-04-paulings-blunder.md~
+git add _posts/2026-03-04-paulings-blunder.md
+git commit -m "Fix YAML: removed broken template line to restore page builds"
+git push origin main
+sed -i '/# jabrium_thread/d' _posts/*.md
+git add _posts/*.md
+git commit -m "Fix YAML: scrubbed broken template tag from all theory archives to restore page builds"
+git push origin main
+mv index.md index_temp.md
+git rm index.md
+git commit -m "Maintenance: Temporarily hiding Master Index to verify file routing"
+git push origin main
+ls -1 _posts/
+2026-03-04-50-caliber-rifle-shot-analogy.md
+2026-03-04-atmospheric-plumbing.md
+2026-03-04-bedrock-of-modern-meteorology.md
+2026-03-04-breaking-cycle.md
+2026-03-04-cloud-suck.md
+2026-03-04-correcting-paulings-blunder.md
+2026-03-04-executive-summary.md
+2026-03-04-glossary-of-terms.md
+2026-03-04-high-quality-moist-air.md
+2026-03-04-hydrogen-bonding-dynamic-switch.md
+2026-03-04-is-the-convection-model-tested.md
+2026-03-04-mitigation-strategy.md
+2026-03-04-moist-air-density-standard-view.md
+2026-03-04-paulings-blunder.md
+2026-03-04-paulings-blunder-vs-solving-tornadoes-alt.md
+2026-03-04-pressure-differential-engine.md
+2026-03-04-public-relations-crisis-kit.md
+2026-03-04-square-peg-of-convection.md
+2026-03-04-strategic-investment-opportunity.md
+2026-03-04-structural-perspective-dismantles-convection.md
+2026-03-04-tactical-debate-map.md
+2026-03-04-the-funnel-effect.md
+2026-03-04-thermal-gradients-geographic-distribution.md
+2026-03-04-vortices-energetic-low-pressure.md
+2026-03-04-vortices-pressure-relief-valves.md
+2026-03-04-vortices-structural-pressure-relief-valves.md
+2026-03-04-why-meteorology-shuns-debate.md2026-03-04-50-caliber-rifle-shot-analogy.md
+2026-03-04-atmospheric-plumbing.md
+2026-03-04-bedrock-of-modern-meteorology.md
+2026-03-04-breaking-cycle.md
+2026-03-04-cloud-suck.md
+2026-03-04-correcting-paulings-blunder.md
+2026-03-04-executive-summary.md
+2026-03-04-glossary-of-terms.md
+2026-03-04-high-quality-moist-air.md
+2026-03-04-hydrogen-bonding-dynamic-switch.md
+2026-03-04-is-the-convection-model-tested.md
+2026-03-04-mitigation-strategy.md
+2026-03-04-moist-air-density-standard-view.md
+2026-03-04-paulings-blunder.md
+2026-03-04-paulings-blunder-vs-solving-tornadoes-alt.md
+2026-03-04-pressure-differential-engine.md
+2026-03-04-public-relations-crisis-kit.md
+2026-03-04-square-peg-of-convection.md
+2026-03-04-strategic-investment-opportunity.md
+2026-03-04-structural-perspective-dismantles-convection.md
+2026-03-04-tactical-debate-map.md
+2026-03-04-the-funnel-effect.md
+2026-03-04-thermal-gradients-geographic-distribution.md
+2026-03-04-vortices-energetic-low-pressure.md
+2026-03-04-vortices-pressure-relief-valves.md
+2026-03-04-vortices-structural-pressure-relief-valves.md
+2026-03-04-why-meteorology-shuns-debate.md
+gedit index_temp.md &
+git mv index_temp.md index.md
+solvingtornadoes@penguin:~$ git mv index_temp.md index.md
+fatal: not under version control, source=index_temp.md, destination=index.md
+[1]+  Done                    gedit index_temp.md
+mv index_temp.md index.md
+git commit -m "Restore Master Index with corrected routing links"
+ls -l _posts/
+09:45 2026-03-04-paulings-blunder.mdgit rm _posts/2026-03-04-paulings-blunder-vs-solving-tornadoes.md
+git rm _posts/2026-03-04-paulings-blunder-vs-solving-tornadoes.md
+git add _posts/2026-03-04-paulings-blunder.md
+git add index.md
+git commit -m "Restore Master Index and clean up Pauling filename"
+git push origin main
