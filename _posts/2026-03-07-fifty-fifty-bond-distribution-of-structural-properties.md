@@ -1,13 +1,18 @@
-﻿# The 50/50 Bond Distribution Explains Emergence of Structural Properties 
+---
+layout: post
+title: "The 50/50 Bond Distribution of Structural Properties"
+author: "James McGinn / Solving Tornadoes"
+tags: [vortice plasma, variable polarity, inverse bonding, structural matrix]
+---
 
 
-The structural breakdown of the 50/50 bond distribution explains why $H\_2O$ can manifest as a rigid, impact-resistant plasma rather than a simple fluid or gas. This state is the "missing round peg" because it provides a physical mechanism for a vortex wall to possess tensile strength.
+The structural breakdown of the 50/50 bond distribution explains why H<sub>2</sub>O can manifest as a rigid, impact-resistant plasma rather than a simple fluid or gas. This state is the "missing round peg" because it provides a physical mechanism for a vortex wall to possess tensile strength.
 
 
 ## **1\. The Inverse Relationship: Polarity vs. Bonding**
 
 
-In the "Solving Tornadoes" model, the strength of the $H\_2O$ structure is derived from a variable polarity that academia—blinded by Pauling’s static model—ignores.
+In the "Solving Tornadoes" model, the strength of the H<sub>2</sub>O structure is derived from a variable polarity that academia—blinded by Pauling’s static model—ignores.
 
 
 * **The Saturated State (Liquid):** When water molecules are fully bonded (tetrahedral), the electrical charges are neutralized. Polarity is low, resulting in a weak, fluid state with no structural integrity.  
@@ -49,4 +54,4 @@ Only under specific atmospheric conditions—where vorticity provides the exact 
 You can now argue that the "vortex" is a **phase of matter** as much as it is a weather event.
 
 
-*"A storm isn't a cloud that started spinning; it's a structural machine made of **vortice plasma**. It uses the inverse polarity of $H\_2O$ to build a high-tensile conduit that delivers jet-stream energy to the ground. If you don't understand the structural potential of water, you can't understand the energy of a storm."*
+*"A storm isn't a cloud that started spinning; it's a structural machine made of **vortice plasma**. It uses the inverse polarity of H<sub>2</sub>O to build a high-tensile conduit that delivers jet-stream energy to the ground. If you don't understand the structural potential of water, you can't understand the energy of a storm."*

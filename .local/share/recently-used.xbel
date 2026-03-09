@@ -166,12 +166,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/solvingtornadoes/index.md" added="2026-03-04T20:15:30.649260Z" modified="2026-03-09T03:10:27.108775Z" visited="2026-03-04T20:15:30.649261Z">
+  <bookmark href="file:///home/solvingtornadoes/index.md" added="2026-03-04T20:15:30.649260Z" modified="2026-03-09T03:39:13.091571Z" visited="2026-03-04T20:15:30.649261Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/markdown"/>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-09T03:10:27.108773Z" count="32"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-09T03:39:13.091569Z" count="37"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -486,22 +486,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/solvingtornadoes/_posts/2026-03-07-misattribution-of-causation.md" added="2026-03-08T16:37:59.695837Z" modified="2026-03-09T03:21:13.980598Z" visited="2026-03-08T16:37:59.695837Z">
+  <bookmark href="file:///home/solvingtornadoes/_posts/2026-03-07-misattribution-of-causation.md" added="2026-03-08T16:37:59.695837Z" modified="2026-03-09T03:32:18.548109Z" visited="2026-03-08T16:37:59.695837Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/markdown"/>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-09T03:21:13.980594Z" count="13"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-09T03:32:18.548106Z" count="14"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/solvingtornadoes/_posts/2026-03-07-fifty-fifty-bond-distribution-of-structural-properties-.md" added="2026-03-08T17:29:31.231684Z" modified="2026-03-09T03:03:03.811688Z" visited="2026-03-08T17:29:31.231684Z">
+  <bookmark href="file:///home/solvingtornadoes/_posts/2026-03-07-fifty-fifty-bond-distribution-of-structural-properties-.md" added="2026-03-08T17:29:31.231684Z" modified="2026-03-09T03:31:19.832154Z" visited="2026-03-08T17:29:31.231684Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/markdown"/>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-09T03:03:03.811685Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-09T03:31:19.832149Z" count="5"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -552,6 +552,16 @@
         <mime:mime-type type="text/markdown"/>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-09T03:08:06.339369Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/solvingtornadoes/_posts/2026-03-07-fifty-fifty-bond-distribution-of-structural-properties.md" added="2026-03-09T03:29:58.932231Z" modified="2026-03-09T03:29:58.932236Z" visited="2026-03-09T03:29:58.932231Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-09T03:29:58.932233Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
