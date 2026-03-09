@@ -5,7 +5,7 @@ author: "James McGinn / Solving Tornadoes"
 tags: [public relations, convection myth, hurricane mitigation, institutional blindness]
 ---
 
-﻿## **I. The "Institutional Blindness" Narrative**
+﻿## **I. The Institutional Blindness Narrative**
 
 **Objective:** To explain the delay in scientific progress without appearing conspiratorial. Frame it as a systemic, psychological phenomenon rather than a personal failure of individual meteorologists.
 

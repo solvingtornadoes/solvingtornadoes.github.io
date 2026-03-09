@@ -16,7 +16,7 @@ tags: [gas law, structural plasma, moist air density, avogadros law]
 
 | Feature | Standard Meteorology (Gas Law View) | Solving Tornadoes (Structural Plasma View) |
 | :---- | :---- | :---- |
-| **Physical State of $H\_2O$** | Discrete, independent gas molecules. | **Coherent, structural plasma matrix.** |
+| **Physical State of H<sub>2</sub>O** | Discrete, independent gas molecules. | **Coherent, structural plasma matrix.** |
 | **Density Argument** | Moist air is "lighter" because H<sub>2</sub>O (18g/mol) \ N<sub>2</sub> (28g/mol). | Moist air creates **structural mass** through amplified surface tension. |
 | **Mechanical Role** | Passive "fuel" that provides buoyancy. | **Active "handle"** that provides mechanical leverage. |
 | **Molecular Behavior** | Random collisions (Brownian motion). | **Collective tensile "grip"** (Mutual Inverse Variability). |
@@ -42,7 +42,7 @@ The academic model relies on Avogadro’s Law to claim that adding water vapor m
 #### **2\. The Solving Tornadoes View: The Leverage Reality**
 
 
-In the structural model, the presence of moisture is not about "weighting" the air; it is about **linking** the air. Because of the inverse polarity mechanism (Pauling’s Blunder), $H\_2O$ molecules in the vortex sheath form a structural plasma.
+In the structural model, the presence of moisture is not about "weighting" the air; it is about **linking** the air. Because of the inverse polarity mechanism (Pauling’s Blunder), H<sub>2</sub>O molecules in the vortex sheath form a structural plasma.
 
 
 * **The Structural Mass:** This plasma possesses a "structural mass" that allows the vortex to act as a rigid conduit. It is this rigidity that allows the vortex to "grab" the atmosphere and exert leverage.  

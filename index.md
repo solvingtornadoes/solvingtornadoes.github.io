@@ -16,7 +16,7 @@ The "Convection Myth" begins with a misunderstanding of the H₂O molecule. Thes
 * **[Pauling’s Blunder: The Static Fallacy](/paulings-blunder/)** *Why the 1950s model of the hydrogen bond failed to recognize water's structural potential.*
 * **[The Proximity Switch: Variable Polarity](/hydrogen-bonding-dynamic-switch/)** *How H₂O polarity is not a constant, but a dynamic reaction to kinetic energy and proximity.*
 * **[Molecular Weight vs. Structural Mass](/moist-air-density-standard-view/)** *Dismantling the "Moist Air is Lighter" myth using the physics of the plasma matrix.*
-* **[Misattribution of Causation](/misattribution-of-causation/)** *How identifying the true causal agent—electrical gradients—dismantles the "anomalous" water myth.*
+* **[Misattribution of Causation](/Misattribution-of-Causation/)** *How identifying the true causal agent—electrical gradients—dismantles the "anomalous" water myth.*
 
 
 ---
@@ -24,7 +24,7 @@ The "Convection Myth" begins with a misunderstanding of the H₂O molecule. Thes
 ## **II. Vortex Mechanics: The Atmospheric Pipe**
 Vortices are not "accidents" of weather; they are the primary mechanical delivery systems for energy in our atmosphere.
 
-* **[Structural Plasma: The 50/50 Bond Distribution](/structural-perspective-dismantles-convection/)** *The material science of the vortex wall: neither gas nor liquid, but a high-strength sheath.*
+* **[Structural Plasma: The 50/50 Bond Distribution](/fifty-fifty-bond-distribution-of-structural-properties/)** *The material science of the vortex wall: neither gas nor liquid, but a high-strength sheath.*
 * **[Vortices: The Pressure Relief Valves of the Atmosphere](/vortices-deliver-energetic-low-pressure.md/)** *Why gases alone cannot build a high-velocity jet stream without a structural container.*
 * **[The Suction Pipe: Top-Down Pressure Delivery](/suction-pipe/)** *Moving the debate from "Floating Bubbles" to "Mechanical Conduits."*
 

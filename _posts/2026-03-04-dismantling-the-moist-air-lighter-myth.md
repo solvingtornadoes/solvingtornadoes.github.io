@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dismantling The Standard Convection Model"
+title: "Dismantling The Moist Air Lighter Myth"
 author: "James McGinn / Solving Tornadoes"
 tags: [structural vortex, centrifugal pump, joule-thomson effect, parcel theory, pressure differential]
 ---

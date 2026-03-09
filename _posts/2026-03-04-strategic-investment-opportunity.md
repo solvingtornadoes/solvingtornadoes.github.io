@@ -33,7 +33,7 @@ Traditional meteorology fails to offer mitigation because it views storms as "he
 ## **The Interruption Mechanism**
 
 
-By targeting the specific 50/50 bond distribution of $H\_2O$ molecules within the vortex sheath, SAM technology disrupts the **tensile strength** of the conduit.
+By targeting the specific 50/50 bond distribution of H<sub>2</sub>O molecules within the vortex sheath, SAM technology disrupts the **tensile strength** of the conduit.
 
 
 * **Structural Breach:** Once the plasma sheath is compromised, the "energetic low pressure" inside equalizes with the ambient atmosphere.  

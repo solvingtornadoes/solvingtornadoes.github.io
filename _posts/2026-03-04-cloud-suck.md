@@ -27,7 +27,7 @@ The standard argument for why a "thermal" kills with cold relies on the **Adiaba
 
 
 * **The Theory:** A parcel of air starts warmer than its surroundings at the surface. As it rises, the pressure drops.  
-* **The Result:** Basic gas laws dictate that as pressure decreases, the temperature must drop ($P \\propto T$).  
+* **The Result:** Basic gas laws dictate that as pressure decreases, the temperature must drop.  
 * **The Paradox:** Even if the rising air remains "warmer" than the ambient air at 30,000 feet, the ambient air at that height is roughly **\-50°C**. A "thermal" that is 10 degrees "warmer" than its surroundings is still **\-40°C**—far below the threshold for human survival without specialized gear.
 
 
