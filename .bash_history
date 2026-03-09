@@ -1542,3 +1542,16 @@ rm ~/website_drafts/misattribution_of_causation.md
 sync_tornado
 cat ~/index.md
 sync_tornado
+source bot_env/bin/activate
+sync_tornado
+sync-tornado
+sync_tornado
+sed -i '1s/^\xEF\xBB\xBF//' ~/website_drafts/misattribution_of_causation.md && dos2unix ~/website_drafts/misattribution_of_causation.md
+sed -i '1s/^\xEF\xBB\xBF//' ~/_posts/2026-03-07-misattribution-of-causation.md && dos2unix ~/_posts/2026-03-07-misattribution-of-causation.md
+sed: can't read /home/solvingtornadoes/website_drafts/misattribution_of_causation.md: No such file or directory
+(bot_env) solvingtornadoes@penguin:~$ sed -i '1s/^\xEF\xBB\xBF//' ~/_posts/2026-03-07-misattribution-of-causation.md && dos2unix ~/_posts/2026-03-07-misattribution-of-causation.md
+-bash: dos2unix: command not found
+(bot_env) solvingtornadoes@penguin:~$ 
+
+
+
