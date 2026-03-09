@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Misattribution of Causation"
+permalink: /misattribution-of-causation/
 author: "James McGinn"
 tags: [causality, paulings blunder, water polarity, atmospheric vortices]
 ---
