@@ -21,7 +21,7 @@ For any system to be sustainable, its energy gain must exceed its "loss" (entrop
 
 
 * **The Loss:** Viscous friction as air molecules collide within the vortex wall.  
-* **The Gain:** The **Work ($W$)** done by the atmosphere as it pushes air from a region of high pressure <i>P<sub>high</sub></i> at the base into the low-pressure conduit <i>P<sub>low</sub></i> created by the vortex.  
+* **The Gain:** The **Work** done by the atmosphere as it pushes air from a region of high pressure <i>P<sub>high</sub></i> at the base into the low-pressure conduit <i>P<sub>low</sub></i> created by the vortex.  
 * **The Result:** Because the pressure at the "exit" (higher altitude) is significantly lower, the air **accelerates** as it moves through the conduit. As long as the pressure difference between the entrance and exit is maintained by the larger atmospheric structure, the "net gain" in kinetic energy will always overcompensate for the "frictional drag."
 
 

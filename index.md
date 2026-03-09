@@ -35,9 +35,9 @@ Vortices are not "accidents" of weather; they are the primary mechanical deliver
 ## **III. The Convection Critique: Dismantling the Consensus**
 These articles identify the specific mathematical and physical failures of 19th-century thermodynamics.
 
-* **[The Convection Myth: The Boiling Pot Fallacy](/square-peg-of-convection/)** *Why the "Steam Engine" model of meteorology cannot explain a cold-core storm.*
+* **[The Square Peg of Convection](/square-peg-of-convection/)** *Why the "Steam Engine" model of meteorology cannot explain a cold-core storm.*
 * **[The Geographic Paradox: Why the Equator is "Lazy"](/thermal-gradients-geographic-distribution/)** *Proving that evaporation intensity does not correlate with kinetic storm intensity.*
-* **[The Joule-Thomson Effect: The Truth Behind the Cold Kill](/pressure-differential-engine/)** *Explaining why violent updrafts are refrigeration events caused by mechanical work.*
+* **[The Pressure Differential Engine: The Truth Behind the Cold Kill](/pressure-differential-engine/)** *Explaining why violent updrafts are refrigeration events caused by mechanical work.*
 
 
 
@@ -46,7 +46,7 @@ These articles identify the specific mathematical and physical failures of 19th-
 ## **IV. Empirical Evidence & Ground Truth**
 Hard data and in-situ measurements that the Convection Model simply cannot account for.
 
-* **[The Tulia & Manchester Record Pressure Drops](/pressure-differential-engine/)** *Analyzing the 194mb and 100mb vacuum events that prove the "Suction" model.*
+* **[The Tulia & Manchester Record Pressure Drops](/why-meteorology-shuns-debate/)** *Analyzing the 194mb and 100mb vacuum events that prove the "Suction" model.*
 * **[Cloud Suck: The Tragedy of Mechanical Decompression](/cloud-suck/)** *The empirical smoking gun: Why the most violent updrafts on Earth are lethally cold.*
 
 ---

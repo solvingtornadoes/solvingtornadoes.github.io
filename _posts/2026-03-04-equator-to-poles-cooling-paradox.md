@@ -8,7 +8,7 @@ tags: [thermal gradients, adiabatic cooling, energy budget]
 ## **1\. Adiabatic Cooling**
 
 
-The standard model relies on the **Adiabatic Lapse Rate**. It acknowledges that as air rises and pressure decreases, the temperature *must* drop ($P \\propto T$).
+The standard model relies on the **Adiabatic Lapse Rate**. It acknowledges that as air rises and pressure decreases, the temperature *must* drop.
 
 
 * **The Meteorologist's Claim:** Latent heat release from condensation "slows down" this cooling, making the rising parcel warmer than the surrounding air (the "Saturated Adiabatic Lapse Rate").  

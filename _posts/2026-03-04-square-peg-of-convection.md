@@ -58,7 +58,7 @@ This **energetic-low-pressure-driven conduit** acts as a mechanical pump. It pos
 A critical correction to standard meteorological thinking involves the role of warm, moist air. Meteorologists claim this air is "fuel" because it is light and buoyant. In the structural vortex model, this is an error. The vortex does not "prefer" warm, moist air because it is the path of least resistance. On the contrary, it is the **path of greatest leverage.**
 
 
-* **The Grip:** Because of the structural properties of $H\_2O$ discussed in *Pauling’s Blunder*, moist air provides the vortex with something to "grab" onto.  
+* **The Grip:** Because of the structural properties of H<sub>2</sub>O discussed in *Pauling’s Blunder*, moist air provides the vortex with something to "grab" onto.  
 * **The Mechanical Link:** The vortex uses the tensile properties of the moisture to exert mechanical leverage on the atmosphere. Dry air, lacking this structural connectivity, provides no such leverage.
 
 
