@@ -35,4 +35,4 @@ When water molecules form hydrogen bonds, their electrical gradients directly op
 Understanding weather patterns and atmospheric vortices depends on understanding water’s surface tension. At the top of the troposphere, wind shear prevents complete hydrogen bonding, thereby reactivating polarity and generating the cohesive forces observed in H<sub>2</sub>O molecules. This higher-magnitude form of surface tension serves as the structural basis of atmospheric vortices.
 
 
-Without recognizing that electrical gradients—rather than merely differences—create polarity, the fundamental mechanics of weather cannot be deciphered. Correcting this seemingly minor conceptual misstep transforms our understanding from confusion to clarity.
+<b>Without recognizing that electrical gradients—rather than merely differences—create polarity, the fundamental mechanics of weather cannot be deciphered. Correcting this seemingly minor conceptual misstep transforms our understanding from confusion to clarity.</b>
