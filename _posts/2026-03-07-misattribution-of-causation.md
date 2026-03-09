@@ -6,6 +6,7 @@ author: "James McGinn"
 tags: [causality, paulings blunder, water polarity, atmospheric vortices]
 ---
 
+# Misattribution of Causation
 
 Can a misunderstanding about causation cause an entire scientific field to spin its wheels for decades? Science is vulnerable to conceptual errors, and one of these has profoundly hindered our understanding of water and the nature of weather.
 
