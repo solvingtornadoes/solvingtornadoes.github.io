@@ -166,12 +166,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/solvingtornadoes/index.md" added="2026-03-04T20:15:30.649260Z" modified="2026-03-09T02:49:53.294019Z" visited="2026-03-04T20:15:30.649261Z">
+  <bookmark href="file:///home/solvingtornadoes/index.md" added="2026-03-04T20:15:30.649260Z" modified="2026-03-09T03:10:27.108775Z" visited="2026-03-04T20:15:30.649261Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/markdown"/>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-09T02:49:53.294015Z" count="31"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-09T03:10:27.108773Z" count="32"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -486,12 +486,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/solvingtornadoes/_posts/2026-03-07-misattribution-of-causation.md" added="2026-03-08T16:37:59.695837Z" modified="2026-03-09T02:50:33.918370Z" visited="2026-03-08T16:37:59.695837Z">
+  <bookmark href="file:///home/solvingtornadoes/_posts/2026-03-07-misattribution-of-causation.md" added="2026-03-08T16:37:59.695837Z" modified="2026-03-09T03:11:47.048923Z" visited="2026-03-08T16:37:59.695837Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/markdown"/>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-09T02:50:33.918366Z" count="8"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-09T03:11:47.048919Z" count="11"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -542,6 +542,16 @@
         <mime:mime-type type="text/markdown"/>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-08T19:20:30.605767Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/solvingtornadoes/_posts/2026-03-04-why-gases-alone-cannot-build-a-jet-stream.md" added="2026-03-09T03:08:06.339367Z" modified="2026-03-09T03:08:06.339372Z" visited="2026-03-09T03:08:06.339368Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2026-03-09T03:08:06.339369Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

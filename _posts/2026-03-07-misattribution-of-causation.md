@@ -2,7 +2,7 @@
 layout: default
 title: "Misattribution of Causation"
 author: "James McGinn / Solving Tornadoes"
-tags: [Causality, Pauling Blunder, Water Polarity, Atmospheric Vortices]
+tags: [Causality, Paulings Blunder, Water Polarity, Atmospheric Vortices]
 ---
 
 
